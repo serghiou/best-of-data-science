@@ -1,2 +1,7 @@
-# best-of-r
-A repository of all resources and packages I like about R
+# Best of R
+
+A repository of all resources and packages I like about R.
+
+## Text mining
+
+**[Text mining with R.](https://www.tidytextmining.com/)** A great GitHub book with code for cutting-edge text mining with R.
