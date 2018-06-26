@@ -16,4 +16,8 @@ A repository of all resources and packages about R that I find interesting.
 
 **[dlstats.](https://cran.r-project.org/web/packages/dlstats/vignettes/dlstats.html)** Package. It reports monthly downloads of any package on CRAN or Bioconductor across time.
 
+## Cloud computing
+
+[googleCloudStorageR.](https://cran.r-project.org/web/packages/googleCloudStorageR/vignettes/googleCloudStorageR.html) Package. Tutorial. A report on how to interact with the Google Storage API of the Google Cloud Platform through R.
+
 </div>
