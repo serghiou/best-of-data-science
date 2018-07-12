@@ -41,6 +41,6 @@ A repository of all resources and packages about R that I find interesting.
 
 ## Cloud computing
 
-[googleCloudStorageR.](https://cran.r-project.org/web/packages/googleCloudStorageR/vignettes/googleCloudStorageR.html) Package. Tutorial. A report on how to interact with the Google Storage API of the Google Cloud Platform through R.
+**[googleCloudStorageR.](https://cran.r-project.org/web/packages/googleCloudStorageR/vignettes/googleCloudStorageR.html)** Package. Tutorial. A report on how to interact with the Google Storage API of the Google Cloud Platform through R.
 
 </div>
