@@ -5,6 +5,16 @@
 A repository of all resources and packages about R that I find interesting.
 
 
+## Syntax
+
+**[Pipes.](https://www.datacamp.com/community/tutorials/pipe-r-tutorial)** Tutorial. A fantastic and comprehensive tutorial on how to use pipes in R - these are now becoming standard in R syntax.
+
+**[magrittr.](https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html)** Package. Tutorial. The standard package for the commonest pipes used in R - very useful to go through as it introduces many super-useful operators.
+
+**[Hadley Wickham's Style Guide.](http://adv-r.had.co.nz/Style.html)** Tutorial. Guidelines. This in combination with the style guide by Google (referenced in the website) are the most standard coding styles in R.
+
+
+
 ## Text mining
 
 **[Text mining with R.](https://www.tidytextmining.com/)** Book. A great GitHub resource with code for cutting-edge text mining with R.
