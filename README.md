@@ -41,9 +41,17 @@ A repository of all resources and packages about R that I find interesting.
 
 **[stargazer.](https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf)** Package. Tutorial. A great package to automatically produce summary tables in HTML or LaTeX ready for publication.
 
+**[skimr.](https://github.com/ropensci/skimr)** Package. Tutorial. Produce pretty summary tables where the last column represents a histogram of the data. It can output directly into R and as an HTML table.
+
+**[summarytools.](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html)** Package. Tutorial. Produce pretty summary tables and contingency tables.
+
 
 
 ## Data visualization
+
+**[ggplot2.](https://ggplot2.tidyverse.org/)** Package. Tutorial. By far the most popular package for data visualization in R. Look for visualization packages starting with "gg" - these contain custom functions to produce plots using ggplot2.
+
+**[corrplot.](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)** Package. Tutorial. A package to easily produce beautiful and intuitive correlation plots.
 
 **[viridis.](https://www.r-bloggers.com/ggplot2-welcome-viridis/amp/)** Package. Tutorial. An introduction to using viridis as a package or within ggplot2 to create plots with beautifully matching colors.
 
