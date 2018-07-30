@@ -9,7 +9,9 @@ A repository of all resources and packages about R that I find interesting.
 
 **[DataCamp.](https://swirlstats.com/)** Tutorial. A fantastic collection of tutorials on R, including introduction to the basics as well as more advanced topics.
 
-**[Swirl.](https://swirlstats.com/).** Tutorial. An R package that teaches you how to use R within R.
+**[Quick-R.](https://www.statmethods.net/index.html)** Tutorial. A fantastic website with anything one would need to start analyzing data using R.
+
+**[Swirl.](https://swirlstats.com/)** Tutorial. An R package that teaches you how to use R within R.
 
 ## Syntax
 
