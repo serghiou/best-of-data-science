@@ -5,6 +5,12 @@
 A repository of all resources and packages about R that I find interesting.
 
 
+## To learn R
+
+**[DataCamp.](https://swirlstats.com/)** Tutorial. A fantastic collection of tutorials on R, including introduction to the basics as well as more advanced topics.
+
+**[Swirl.](https://swirlstats.com/).** Tutorial. An R package that teaches you how to use R within R.
+
 ## Syntax
 
 **[Pipes.](https://www.datacamp.com/community/tutorials/pipe-r-tutorial)** Tutorial. A fantastic and comprehensive tutorial on how to use pipes in R - these are now becoming standard in R syntax.
@@ -30,6 +36,8 @@ A repository of all resources and packages about R that I find interesting.
 ## Data summarization
 
 **[broom.](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)** Package. Tutorial. A great package to summarize models fit into meaningful data frames.
+
+**[stargazer.](https://cran.r-project.org/web/packages/stargazer/vignettes/stargazer.pdf)** Package. Tutorial. A great package to automatically produce summary tables in HTML or LaTeX ready for publication.
 
 
 
