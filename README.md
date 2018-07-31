@@ -63,6 +63,10 @@ A repository of all resources and packages about R that I find interesting.
 
 **[dotwhisker.](https://cran.r-project.org/web/packages/dotwhisker/vignettes/dotwhisker-vignette.html)** Package. Tutorial. A fantastic package to easily produce ggplots of coefficients from models fit and compare.
 
+**[sunburstR.](https://github.com/timelyportfolio/sunburstR/tree/master/inst/examples)** Package. Tutorial. A package that makes it easy to produce beautiful and interactive sunburst plots in R.
+
+**[Best R packages for interactive plots.](http://enhancedatascience.com/2017/07/06/pick-best-r-packages-interactive-plot-visualisation-22/)** Overview. An overview of packages for pretty and interactive plots in R.
+
 
 
 ## Data analysis
