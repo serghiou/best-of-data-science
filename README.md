@@ -49,6 +49,8 @@ A repository of all resources and packages about R that I find interesting.
 
 **[summarytools.](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html)** Package. Tutorial. Produce pretty summary tables and contingency tables.
 
+**[tidybayes.](http://mjskay.github.io/tidybayes/)** Package. Tutorial. "A package that aims to make it easy to integrate popular Bayesian modeling methods into a tidy data + ggplot workflow."
+
 
 
 ## Data visualization
