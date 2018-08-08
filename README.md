@@ -87,8 +87,10 @@ A repository of all resources and packages about R that I find interesting.
 
 
 
-## Cloud computing
+## Cloud computing and massive data
 
 **[googleCloudStorageR.](https://cran.r-project.org/web/packages/googleCloudStorageR/vignettes/googleCloudStorageR.html)** Package. Tutorial. A report on how to interact with the Google Storage API of the Google Cloud Platform through R.
+
+**[How to manage memory in R.](https://stackoverflow.com/questions/1358003/tricks-to-manage-the-available-memory-in-an-r-session)** Tutorial. A good guide on managing memory in R.
 
 </div>
