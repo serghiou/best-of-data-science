@@ -69,6 +69,8 @@ A repository of all resources and packages about R that I find interesting.
 
 **[Best R packages for interactive plots.](http://enhancedatascience.com/2017/07/06/pick-best-r-packages-interactive-plot-visualisation-22/)** Overview. An overview of packages for pretty and interactive plots in R.
 
+**[Pretty survival plots.](https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/)** Tutorial. A guide on how to use ggplot2 to produce pretty survival curves.
+
 
 
 ## Data analysis
