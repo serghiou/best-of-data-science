@@ -79,6 +79,8 @@ A repository of all resources and packages about R that I find interesting.
 
 **[coin.](https://cran.r-project.org/web/packages/coin/coin.pdf)** Package. The most popular package for all sorts of permutation tests.
 
+**[Boruta.](https://www.theguardian.com/higher-education-network/2018/aug/09/a-phd-should-be-about-improving-society-not-chasing-academic-kudos)** Package. Tutorial. A package to apply the boruta algorithm of feature selection for random forests.
+
 
 
 ## Open Science
