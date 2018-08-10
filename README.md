@@ -81,6 +81,8 @@ A repository of all resources and packages about R that I find interesting.
 
 **[Boruta.](https://www.theguardian.com/higher-education-network/2018/aug/09/a-phd-should-be-about-improving-society-not-chasing-academic-kudos)** Package. Tutorial. A package to apply the boruta algorithm of feature selection for random forests.
 
+**[MatchIt.](https://cran.r-project.org/web/packages/MatchIt/vignettes/matchit.pdf)** Package. Tutorial. An implementation of matching algorithms by some of the most prominent names in the field - indispensable for things such as propensity-score matching.
+
 
 
 ## Open Science
