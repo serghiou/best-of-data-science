@@ -83,6 +83,8 @@ A repository of all resources and packages about R that I find interesting.
 
 **[MatchIt.](https://cran.r-project.org/web/packages/MatchIt/vignettes/matchit.pdf)** Package. Tutorial. An implementation of matching algorithms by some of the most prominent names in the field - indispensable for things such as propensity-score matching.
 
+**[Fundamentals of Bayesian Data Analysis with R.](https://www.datacamp.com/community/blog/course-fundamentals-bayesian-data-analysis-r)** Tutorial. A tutorial of the fundamentals by DataCamp.
+
 
 
 ## Open Science
