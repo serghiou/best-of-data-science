@@ -73,6 +73,10 @@ A repository of all resources and packages about R that I find interesting.
 
 **[Wordclouds.](https://www.r-bloggers.com/statistics-sunday-creating-wordclouds/amp/)** Tutorial. A tutorial on how to create wordclouds in R.
 
+**[alluvial.](https://cran.r-project.org/web/packages/ggalluvial/vignettes/ggalluvial.html)** Package. Tutorial. A package for building pretty alluvial diagrams (flow diagrams) using ggplot2.
+
+**[circlize.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=2ahUKEwit0ZnF2ercAhWCi1QKHTkgBSAQFjADegQICBAB&url=https%3A%2F%2Fzuguang.de%2Fcirclize_book%2Fbook%2F&usg=AOvVaw1Tk2M7bZOkZV0Cs781wBlu)** Package. Book tutorial. A package to build beuatiful circular plots, including circular flow (alluvial) diagrams. Great guide.
+
 
 
 ## Data analysis
