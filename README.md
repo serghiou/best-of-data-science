@@ -77,7 +77,7 @@ A repository of all resources and packages about R that I find interesting.
 
 ## Data analysis
 
-**[H2O.](https://github.com/h2oai/h2o-tutorials/blob/master/tutorials/glm/glm.md)** Package. Tutorial. A fantastic package for speeding up the process of fitting machine learning models. This is a tutorial illustrating how to use the H2O package.
+**[H2O.](https://github.com/h2oai/h2o-tutorials/blob/master/tutorials/glm/glm.md)** Package. Tutorial. A fantastic package for speeding up the process of fitting machine learning models. This is a tutorial illustrating how to use the H2O package. [Here](https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/tutorials/gbm/gbmTuning.Rmd) is a tutorial on how to use GBM with H2O.
 
 **[coin.](https://cran.r-project.org/web/packages/coin/coin.pdf)** Package. The most popular package for all sorts of permutation tests.
 
