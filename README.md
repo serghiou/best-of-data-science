@@ -71,6 +71,8 @@ A repository of all resources and packages about R that I find interesting.
 
 **[Pretty survival plots.](https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/)** Tutorial. A guide on how to use ggplot2 to produce pretty survival curves.
 
+**[Wordclouds.](https://www.r-bloggers.com/statistics-sunday-creating-wordclouds/amp/)** Tutorial. A tutorial on how to create wordclouds in R.
+
 
 
 ## Data analysis
