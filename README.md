@@ -77,6 +77,8 @@ A repository of all resources and packages about R that I find interesting.
 
 **[circlize.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&ved=2ahUKEwit0ZnF2ercAhWCi1QKHTkgBSAQFjADegQICBAB&url=https%3A%2F%2Fzuguang.de%2Fcirclize_book%2Fbook%2F&usg=AOvVaw1Tk2M7bZOkZV0Cs781wBlu)** Package. Book tutorial. A package to build beuatiful circular plots, including circular flow (alluvial) diagrams. Great guide.
 
+**[Forest plots from scratch.](https://github.com/serghiou/best-of-r/blob/master/code/forest.R)** Tutorial. Code I copied from Charles DiMaggio's website to create a pretty forest plot from scratch.
+
 
 
 ## Data analysis
