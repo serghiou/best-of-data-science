@@ -93,6 +93,8 @@ A repository of all resources and packages about R that I find interesting.
 
 **[Imputation and IV regression for missing data.](http://www.brodrigues.co/blog/2018-07-01-tidy_ive/)** Tutorial. Imputation and IV regression for missing data in R - it illustrates how to use packages `mice`, `AER` and `tidyverse` for this purpose. 
 
+**[Bayesian meta-analysis with R.](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/styled-4/styled-11/code-9/)** Tutorial. A fantastic tutorial on how to run a fixed-effect and random-effects Bayesian meta-analysis from scratch.
+
 
 
 ## Open Science
