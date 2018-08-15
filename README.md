@@ -79,6 +79,8 @@ A repository of all resources and packages about R that I find interesting.
 
 **[Forest plots from scratch.](https://github.com/serghiou/best-of-r/blob/master/code/forest.R)** Tutorial. Code I copied from Charles DiMaggio's website to create a pretty forest plot from scratch.
 
+**[GGally.](http://ggobi.github.io/ggally/#ggally)** Package. Tutorial. Mind-blowingly good extension to ggplot2 to summarize data (try replacing `graphics::pairs` with `GGally::ggpairs`!), model coefficients, survival data, maps, networks and create beautiful grids. Astonished.
+
 
 
 ## Data analysis
