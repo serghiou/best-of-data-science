@@ -81,6 +81,8 @@ A repository of all resources and packages about R that I find interesting.
 
 **[GGally.](http://ggobi.github.io/ggally/#ggally)** Package. Tutorial. Mind-blowingly good extension to ggplot2 to summarize data (try replacing `graphics::pairs` with `GGally::ggpairs`!), model coefficients, survival data, maps, networks and create beautiful grids. Astonished.
 
+**[survminer.](http://www.sthda.com/english/rpkgs/survminer/)** Package. Tutorial. The best package I have found for visualization of survival curves with data tables and for visualization of Cox model evalutions. Better than GGally in this respect.
+
 
 
 ## Data analysis
