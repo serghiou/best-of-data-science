@@ -117,4 +117,10 @@ A repository of all resources and packages about R that I find interesting.
 
 **[How to manage memory in R.](https://stackoverflow.com/questions/1358003/tricks-to-manage-the-available-memory-in-an-r-session)** Tutorial. A good guide on managing memory in R.
 
+
+
+## Package creation
+
+**[DataPackageR.](https://cran.r-project.org/web/packages/DataPackageR/vignettes/usingDataPackageR.html)** A great way to turn datasets into easily reusable and downloadable packages.
+
 </div>
