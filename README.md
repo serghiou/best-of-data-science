@@ -57,11 +57,13 @@ A repository of all resources and packages about R that I find interesting.
 
 **[ggplot2.](https://ggplot2.tidyverse.org/)** Package. Tutorial. By far the most popular package for data visualization in R. Look for visualization packages starting with "gg" - these contain custom functions to produce plots using ggplot2.
 
-**[corrplot.](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)** Package. Tutorial. A package to easily produce beautiful and intuitive correlation plots.
-
-**[viridis.](https://www.r-bloggers.com/ggplot2-welcome-viridis/amp/)** Package. Tutorial. An introduction to using viridis as a package or within ggplot2 to create plots with beautifully matching colors.
-
 **[ggeffects.](https://www.r-bloggers.com/marginal-effects-for-regression-models-in-r-rstats-dataviz/amp/)** Package. Tutorial. A package to easily produce pretty ggplots of predicted value distributions across model specifications.
+
+**[GGally.](http://ggobi.github.io/ggally/#ggally)** Package. Tutorial. Mind-blowingly good extension to ggplot2 to summarize data (try replacing `graphics::pairs` with `GGally::ggpairs`!), model coefficients, survival data, maps, networks and create beautiful grids. Astonished.
+
+**[ggpubr.](http://www.sthda.com/english/rpkgs/ggpubr/)** A ggplot2 wrapper that helps create good looking figures ready for publication, including text on the plots and star indications for significance.
+
+**[corrplot.](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)** Package. Tutorial. A package to easily produce beautiful and intuitive correlation plots.
 
 **[dotwhisker.](https://cran.r-project.org/web/packages/dotwhisker/vignettes/dotwhisker-vignette.html)** Package. Tutorial. A fantastic package to easily produce ggplots of coefficients from models fit and compare.
 
@@ -79,9 +81,9 @@ A repository of all resources and packages about R that I find interesting.
 
 **[Forest plots from scratch.](https://github.com/serghiou/best-of-r/blob/master/code/forest.R)** Tutorial. Code I copied from Charles DiMaggio's website to create a pretty forest plot from scratch.
 
-**[GGally.](http://ggobi.github.io/ggally/#ggally)** Package. Tutorial. Mind-blowingly good extension to ggplot2 to summarize data (try replacing `graphics::pairs` with `GGally::ggpairs`!), model coefficients, survival data, maps, networks and create beautiful grids. Astonished.
-
 **[survminer.](http://www.sthda.com/english/rpkgs/survminer/)** Package. Tutorial. The best package I have found for visualization of survival curves with data tables and for visualization of Cox model evalutions. Better than GGally in this respect.
+
+**[viridis.](https://www.r-bloggers.com/ggplot2-welcome-viridis/amp/)** Package. Tutorial. An introduction to using viridis as a package or within ggplot2 to create plots with beautifully matching colors.
 
 
 
