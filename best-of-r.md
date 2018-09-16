@@ -125,6 +125,12 @@ A collection of all resources and packages about R that I find interesting.
 
 
 
+## GUIs
+
+[BlueSky.](https://www.r-bloggers.com/a-comparative-review-of-the-bluesky-statistics-gui-for-r/amp/) Even though I have not used this GUI, it being so much easier to install than R Commander, being much easier on the eye and creating what look like more beautiful plots makes it quite promising for those interested in GUIs!
+
+
+
 ## Package creation
 
 **[DataPackageR.](https://cran.r-project.org/web/packages/DataPackageR/vignettes/usingDataPackageR.html)** A great way to turn datasets into easily reusable and downloadable packages.
