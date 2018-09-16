@@ -107,6 +107,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[lme4.](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)** The standard and fastest package for fitting mixed-effects models. [Here](https://ase.tufts.edu/gsc/gradresources/guidetomixedmodelsinr/mixed%20model%20guide.html) is a great tutorial on how to go about fitting a mixed-effects model from Tufts University. When not fitting a generalized linear model, I use the [lmerTest](https://cran.r-project.org/web/packages/lmerTest/lmerTest.pdf) package, which makes testing the random-effects, comparing models and getting p-values a lot easier. 
 
+**[RJAGS.](https://www.datacamp.com/courses/bayesian-modeling-with-rjags?tap_a=5644-dce66f&tap_s=10907-287229)** A super useful package for Bayesian modelling within R. This is a link to a tutorial on how to use it by the great as always DataCamp.
+
 
 
 ## Open Science
