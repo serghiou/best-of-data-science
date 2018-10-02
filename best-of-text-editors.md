@@ -12,6 +12,6 @@ New text editors appear all the time. This is a list of text editors I find part
 
 ## LaTeX
 
-* **[Overleaf/ShateTeX](https://www.overleaf.com/)**
+* **[Overleaf/ShareLaTeX](https://www.overleaf.com/)**
 
 </div>
