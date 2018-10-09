@@ -73,6 +73,10 @@ A collection of all resources and packages about R that I find interesting.
 
 **[Pretty survival plots.](https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/)** Tutorial. A guide on how to use ggplot2 to produce pretty survival curves.
 
+**[Complex barplots 1.](https://www.r-bloggers.com/a-not-so-simple-bar-plot-example-using-ggplot2/amp/)** Tutorial. A good exmaple of not-as-straight-forward bar plots with ggplot2. Download the script from the top of the page.
+
+**[Complex barplots 2.](https://stackoverflow.com/questions/45179013/r-barplot-with-multiple-categorical-variables-on-the-x-axis-more-than-2)** Tutorial. A guide on StackOverflow on how to build rather inveted bar plots using Base R. Quite a useful guide that illustrates multiple useful functions necessary to build such plots.
+
 **[Wordclouds.](https://www.r-bloggers.com/statistics-sunday-creating-wordclouds/amp/)** Tutorial. A tutorial on how to create wordclouds in R.
 
 **[alluvial.](https://cran.r-project.org/web/packages/ggalluvial/vignettes/ggalluvial.html)** Package. Tutorial. A package for building pretty alluvial diagrams (flow diagrams) using ggplot2.
