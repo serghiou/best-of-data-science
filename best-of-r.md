@@ -21,6 +21,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[Hadley Wickham's Style Guide.](http://adv-r.had.co.nz/Style.html)** Tutorial. Guidelines. This in combination with the style guide by Google (referenced in the website) are the most standard coding styles in R.
 
+**[reticulate.](https://blog.rstudio.com/2018/10/09/rstudio-1-2-preview-reticulated-python/)** Package. Tutorial. A great way to code in Python within R. As of RStudio 1.2, reticulate can be used to start a Python environment, combine R and Python within the same R Markdown and produce plots! A great way of combining working within both languages.
+
 
 
 ## Text mining
