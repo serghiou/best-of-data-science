@@ -133,11 +133,22 @@ A collection of all resources and packages about R that I find interesting.
 **[RJAGS.](https://www.datacamp.com/courses/bayesian-modeling-with-rjags?tap_a=5644-dce66f&tap_s=10907-287229)** A super useful package for Bayesian modelling within R. This is a link to a tutorial on how to use it by the great as always DataCamp.
 
 
+
 ## RMarkdown
 
 **[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)** Book. Written by Yihui Xie, who is the creator of knitr and the definite guide to using R Markdown. Very well written and contains the answer to 95% of the questions I usually have in using R Markdown. A treasure in finding functions of R Markdown you never thought existed.
 
 **[tufte.](https://rstudio.github.io/tufte/)** A package to create very pretty HTML and LaTeX outputs of identical formatting. It uses the Tufte style, which allows producing side-comments and side-plots super easily. Highly recommended!
+
+
+
+## Interface with other languages
+
+**[JuliaCall.](https://cran.r-project.org/web/packages/JuliaCall/index.html)** Package. A package to use Julia from within R Markdown chunks. A very exciting development as Julia is becoming increasingly popular/useful, but I have not used this package yet.
+
+**[reticulate.](https://github.com/rstudio/reticulate)** Package. Vignette. A package to interface Python within R Markdown. An exciting development, but I have not used this package enough to have specific opinions - so far, so good.
+
+
 
 ## Open Science
 
