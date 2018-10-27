@@ -65,6 +65,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[ggpubr.](http://www.sthda.com/english/rpkgs/ggpubr/)** A ggplot2 wrapper that helps create good looking figures ready for publication, including text on the plots and star indications for significance.
 
+**[ggridges](https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html)** Package. Vignette. A package for easily building good-looking ridgeplots (plots in which the distribution of different parameters is plotted within the same plot). A useful package - some of these can be done well using other packages as well, such as dotwhisker and bayesplot.
+
 **[corrplot.](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)** Package. Tutorial. A package to easily produce beautiful and intuitive correlation plots.
 
 **[dotwhisker.](https://cran.r-project.org/web/packages/dotwhisker/vignettes/dotwhisker-vignette.html)** Package. Tutorial. A fantastic package to easily produce ggplots of coefficients from models fit and compare.
@@ -116,6 +118,7 @@ A collection of all resources and packages about R that I find interesting.
 **[lme4.](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)** The standard and fastest package for fitting mixed-effects models. [Here](https://ase.tufts.edu/gsc/gradresources/guidetomixedmodelsinr/mixed%20model%20guide.html) is a great tutorial on how to go about fitting a mixed-effects model from Tufts University. When not fitting a generalized linear model, I use the [lmerTest](https://cran.r-project.org/web/packages/lmerTest/lmerTest.pdf) package, which makes testing the random-effects, comparing models and getting p-values a lot easier. 
 
 **[Implementation of G-Computation.](https://academic.oup.com/aje/article-lookup/doi/10.1093/aje/kwq472)** Tutorial. A great paper illustrating how to implement G-computation in R for causal inference.
+
 
 
 ## Bayesian Statistics
