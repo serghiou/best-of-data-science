@@ -115,10 +115,29 @@ A collection of all resources and packages about R that I find interesting.
 
 **[lme4.](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)** The standard and fastest package for fitting mixed-effects models. [Here](https://ase.tufts.edu/gsc/gradresources/guidetomixedmodelsinr/mixed%20model%20guide.html) is a great tutorial on how to go about fitting a mixed-effects model from Tufts University. When not fitting a generalized linear model, I use the [lmerTest](https://cran.r-project.org/web/packages/lmerTest/lmerTest.pdf) package, which makes testing the random-effects, comparing models and getting p-values a lot easier. 
 
-**[RJAGS.](https://www.datacamp.com/courses/bayesian-modeling-with-rjags?tap_a=5644-dce66f&tap_s=10907-287229)** A super useful package for Bayesian modelling within R. This is a link to a tutorial on how to use it by the great as always DataCamp.
-
 **[Implementation of G-Computation.](https://academic.oup.com/aje/article-lookup/doi/10.1093/aje/kwq472)** Tutorial. A great paper illustrating how to implement G-computation in R for causal inference.
 
+
+## Bayesian Statistics
+
+**[rstanarm.](http://mc-stan.org/rstanarm/articles/rstanarm.html)** Package. Vignette. This package truly makes Bayesian statistics accessible to the wider community of data scientists. It redefines the basic R functions for fitting models to fit Bayesian models using the Stan backend. Very highly recommended for your definitive answer to working with Bayesian statistics.
+
+**[projpred.](http://mc-stan.org/projpred/articles/quickstart.html)** Package. Vignette. This package performs variable selection for fitting models using the rstanarm package. This is super useful in any kind of predictive data analysis exercise. It uses the Stan as a backend.
+
+**[rstan.](http://mc-stan.org/users/interfaces/rstan)** Package. Tutorial. A fantastic wrapper around the programming language Stan, which was specifically created to ease Hamiltonian Monte Carlo sampling methods for fitting Bayesian models. Mandatory for anyone interested in Bayesian data analysis.
+
+**[loo.](http://mc-stan.org/loo/index.html)** Package. Examples. A fantastic package built by the RStan team to compare between Bayesian models. Works seamlessly with RStan and necessary for assessment of Bayesian models.
+
+**[bayesplot.](http://mc-stan.org/bayesplot/)** Package. Examples. A fatnastic package built by the RStan team to analyze the MCMC runs of your sampling and your posterior distributions. It creates super pretty plots using ggplot2 and provides the definitive solution to a tricky aspect of using Bayesian statistics.
+
+**[RJAGS.](https://www.datacamp.com/courses/bayesian-modeling-with-rjags?tap_a=5644-dce66f&tap_s=10907-287229)** A super useful package for Bayesian modelling within R. This is a link to a tutorial on how to use it by the great as always DataCamp.
+
+
+## RMarkdown
+
+**[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)** Book. Written by Yihui Xie, who is the creator of knitr and the definite guide to using R Markdown. Very well written and contains the answer to 95% of the questions I usually have in using R Markdown. A treasure in finding functions of R Markdown you never thought existed.
+
+**[tufte.](https://rstudio.github.io/tufte/)** A package to create very pretty HTML and LaTeX outputs of identical formatting. It uses the Tufte style, which allows producing side-comments and side-plots super easily. Highly recommended!
 
 ## Open Science
 
