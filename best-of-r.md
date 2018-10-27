@@ -57,7 +57,7 @@ A collection of all resources and packages about R that I find interesting.
 
 ## Data visualization
 
-**[ggplot2.](https://ggplot2.tidyverse.org/)** Package. Tutorial. By far the most popular package for data visualization in R. Look for visualization packages starting with "gg" - these contain custom functions to produce plots using ggplot2.
+**[ggplot2.](https://ggplot2.tidyverse.org/)** Package. Tutorial. By far the most popular package for data visualization in R. Look for visualization packages starting with "gg" - these contain custom functions to produce plots using ggplot2. Some of the attributes in ggplot2 may be tricky to use: go to the official ggplot2 wiki [here](https://github.com/tidyverse/ggplot2/wiki/Legend-Attributes) for some really good explanations of these.
 
 **[ggeffects.](https://www.r-bloggers.com/marginal-effects-for-regression-models-in-r-rstats-dataviz/amp/)** Package. Tutorial. A package to easily produce pretty ggplots of predicted value distributions across model specifications.
 
