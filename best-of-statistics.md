@@ -2,6 +2,12 @@
 
 <div align="justify">
   
+## Learning
+
+**[Modern Statistics for Modern Biology.](http://web.stanford.edu/class/bios221/book/)** Book. An open book containing the essentials of modern statistical approaches to data analysis in biology. I love the interface, the comments on the side, the seamlessly integrated questions/answers and the examples of R code.
+
+
+  
 ## Bayesian statistics
 
 **[fiveMinuteStats.](https://stephens999.github.io/fiveMinuteStats/index.html)** Tutorial. Examples. An astonishing resource of really good code and explanation of advanced topics in statistics (e.g. mixture models, Gibbs sampling, etc.). Even though this is relevant to frequentist statistcs as well, it mostly contains Bayesian examples. Super highly recommended!
@@ -9,6 +15,7 @@
 **[Multi-Armed Bandits, Conjugate Models and Bayesian Reinforcement Learning.](https://eigenfoo.xyz/bayesian-bandits/)** Tutorial. Examples. A fantastic website on applying Bayesian methods and Bandits. The website belongsn to George Ho, who also provides great Python code to implement theory.
 
 **[Introduction to Bayesian Networks.](https://towardsdatascience.com/introduction-to-bayesian-networks-81031eeed94e)** Tutorial. A great brief article introduction to Bayesian Networks on Medium - it has received 2.7K claps.
+
 
 
 ## Statistical practice
