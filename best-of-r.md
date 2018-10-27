@@ -142,6 +142,10 @@ A collection of all resources and packages about R that I find interesting.
 
 **[bookdown.](https://bookdown.org/)** Package. Vignette. A package to write awesome-looking books using R Markdown. The definitive guide referenced here, as well as the celebrated Advanced R book by Hadley were written in bookdown and they all look super impressive! This package also makes it easy to have openly available books online.
 
+**[rmdformats.](https://github.com/juba/rmdformats)** Package. Vignette. Super good looking HTML templates for R Markdown output. I love and extensively use the readthedown format from this package.
+
+**[rticles.](https://github.com/rstudio/rticles)** Package. Vignette. Use templates to create articles written in a format appropriate for multiple journals of interest. I have not used this package yet, but it is recommended by RStudio.
+
 
 
 ## Interface with other languages
