@@ -145,6 +145,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)** Book. Written by Yihui Xie, who is the creator of knitr and the definite guide to using R Markdown. Very well written and contains the answer to 95% of the questions I usually have in using R Markdown. A treasure in finding functions of R Markdown you never thought existed.
 
+**[R Markdown Templates.](http://jianghao.wang/post/2017-12-08-rmarkdown-templates/)** Collection. A collection of some of the most important packages of templates for R Markdown (both pdf and HTML).
+
 **[tufte.](https://rstudio.github.io/tufte/)** A package to create very pretty HTML and LaTeX outputs of identical formatting. It uses the Tufte style, which allows producing side-comments and side-plots super easily. Highly recommended!
 
 **[bookdown.](https://bookdown.org/)** Package. Vignette. A package to write awesome-looking books using R Markdown. The definitive guide referenced here, as well as the celebrated Advanced R book by Hadley were written in bookdown and they all look super impressive! This package also makes it easy to have openly available books online.
