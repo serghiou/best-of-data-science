@@ -35,7 +35,7 @@ A collection of all resources and packages about R that I find interesting.
 
 **[dplyr.](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)** Package. Tutorial. By far the most popular package for data manipulation in R. Part of the tidyverse.
 
-**[data.table.](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)** Package. Tutorial. Probably the second most popular package for data manipulation in R. This package is much faster than dplyr and thus preferred when using large datasets. It uses a somewhat unique syntax.
+**[data.table.](https://github.com/Rdatatable/data.table/wiki/Getting-started)** Package. Tutorial. Probably the second most popular package for data manipulation in R. This package is much faster than dplyr and thus preferred when using large datasets. It uses a somewhat unique syntax.
 
 **[zeallot.](https://github.com/r-lib/zeallot#zeallot)** Package. A clever way to unpack data from objects such as data frames or lists into newly defined vectors using a new operator: %<-%.
 
