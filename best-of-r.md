@@ -13,6 +13,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[Swirl.](https://swirlstats.com/)** Tutorial. An R package that teaches you how to use R within R.
 
+
+
 ## Syntax
 
 **[Pipes.](https://www.datacamp.com/community/tutorials/pipe-r-tutorial)** Tutorial. A fantastic and comprehensive tutorial on how to use pipes in R - these are now becoming standard in R syntax.
@@ -188,5 +190,11 @@ A collection of all resources and packages about R that I find interesting.
 ## Package creation
 
 **[DataPackageR.](https://cran.r-project.org/web/packages/DataPackageR/vignettes/usingDataPackageR.html)** A great way to turn datasets into easily reusable and downloadable packages.
+
+
+
+## Appearance
+
+**[Creating custom themes for RStudio.](https://rstudio.github.io/rstudio-extensions/rstudio-theme-creation.html)** Guide. A guide by RStudio of the important variables you need to know to manipulate how RStudio looks like. It also provides a link to a great editor to help you develop your own themes, even though they do not tend to translate well to RStudio.
 
 </div>
