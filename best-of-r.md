@@ -13,6 +13,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[Swirl.](https://swirlstats.com/)** Tutorial. An R package that teaches you how to use R within R.
 
+**[R for Data Science.](https://r4ds.had.co.nz/)** Book. Written by Garrett Grolemund and Hadley Wickham - do I need to say anything else? This is a book written in RMarkdown using bookdown and contains all you need to know for basic data science using the tidyverse!
+
 
 
 ## Syntax
