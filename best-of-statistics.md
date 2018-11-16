@@ -7,6 +7,10 @@
 **[Modern Statistics for Modern Biology.](http://web.stanford.edu/class/bios221/book/)** Book. An open book containing the essentials of modern statistical approaches to data analysis in biology. I love the interface, the comments on the side, the seamlessly integrated questions/answers and the examples of R code.
 
 
+## Frequentist
+
+**[Regression and ANOVA.](http://statweb.stanford.edu/~jtaylo/courses/stats203/)** Tutorial. These are the materials of the main regression analysis course at Stanford at the Masters level. A good overview of the most important methods and of resources you can use to extend your knowledge.
+
   
 ## Bayesian statistics
 
