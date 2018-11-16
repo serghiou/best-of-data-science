@@ -95,6 +95,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[survminer.](http://www.sthda.com/english/rpkgs/survminer/)** Package. Tutorial. The best package I have found for visualization of survival curves with data tables and for visualization of Cox model evalutions. Better than GGally in this respect.
 
+**[Color Palettes.](https://stat.ethz.ch/R-manual/R-devel/library/grDevices/html/palettes.html)** Tutorial. Functions. This is the help page on the color palettes offered by R, with no need to use external packages. These are pretty good and allow use of good combinations of multiple colors easily and succintly.
+
 **[viridis.](https://www.r-bloggers.com/ggplot2-welcome-viridis/amp/)** Package. Tutorial. An introduction to using viridis as a package or within ggplot2 to create plots with beautifully matching colors.
 
 **[Visualization of missingness.](https://www.r-bloggers.com/how-to-perform-a-logistic-regression-in-r/amp/)** Package. Tutorial. A good example of how to easily visualize missingness across a dataset.
