@@ -121,7 +121,7 @@ A collection of all resources and packages about R that I find interesting.
 
 **[Bayesian meta-analysis with R.](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/styled-4/styled-11/code-9/)** Tutorial. A fantastic tutorial on how to run a fixed-effect and random-effects Bayesian meta-analysis from scratch.
 
-**[lme4.](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)** The standard and fastest package for fitting mixed-effects models. [Here](https://ase.tufts.edu/gsc/gradresources/guidetomixedmodelsinr/mixed%20model%20guide.html) is a great tutorial on how to go about fitting a mixed-effects model from Tufts University. When not fitting a generalized linear model, I use the [lmerTest](https://cran.r-project.org/web/packages/lmerTest/lmerTest.pdf) package, which makes testing the random-effects, comparing models and getting p-values a lot easier. 
+**[lme4.](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)** The standard and fastest package for fitting mixed-effects models. [Here](https://ase.tufts.edu/gsc/gradresources/guidetomixedmodelsinr/mixed%20model%20guide.html) is a great tutorial on how to go about fitting a mixed-effects model from Tufts University. [Here](http://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html) is another great tutorial by Berkeley, which combines this with discussing Bayesian fitting for hierachical models using `rstanarm`. When not fitting a generalized linear model, I use the [lmerTest](https://cran.r-project.org/web/packages/lmerTest/lmerTest.pdf) package, which makes testing the random-effects, comparing models and getting p-values a lot easier. 
 
 **[Implementation of G-Computation.](https://academic.oup.com/aje/article-lookup/doi/10.1093/aje/kwq472)** Tutorial. A great paper illustrating how to implement G-computation in R for causal inference.
 
@@ -129,7 +129,7 @@ A collection of all resources and packages about R that I find interesting.
 
 ## Bayesian Statistics
 
-**[rstanarm.](http://mc-stan.org/rstanarm/articles/rstanarm.html)** Package. Vignette. This package truly makes Bayesian statistics accessible to the wider community of data scientists. It redefines the basic R functions for fitting models to fit Bayesian models using the Stan backend. Very highly recommended for your definitive answer to working with Bayesian statistics.
+**[rstanarm.](http://mc-stan.org/rstanarm/articles/rstanarm.html)** Package. Vignette. This package truly makes Bayesian statistics accessible to the wider community of data scientists. It redefines the basic R functions for fitting models to fit Bayesian models using the Stan backend. Very highly recommended for your definitive answer to working with Bayesian statistics. [This](http://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html) is a fantastic tutorial on how to use rstanarm to fit hierarchical models (it also goes through the `lme4` package)!
 
 **[projpred.](http://mc-stan.org/projpred/articles/quickstart.html)** Package. Vignette. This package performs variable selection for fitting models using the rstanarm package. This is super useful in any kind of predictive data analysis exercise. It uses the Stan as a backend.
 
