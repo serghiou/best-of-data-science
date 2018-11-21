@@ -102,6 +102,9 @@ A collection of all resources and packages about R that I find interesting.
 **[Visualization of missingness.](https://www.r-bloggers.com/how-to-perform-a-logistic-regression-in-r/amp/)** Package. Tutorial. A good example of how to easily visualize missingness across a dataset.
 
 
+## Data presentation
+
+* **[formattable.](https://www.r-bloggers.com/make-beautiful-tables-with-the-formattable-package/amp/)** Package. Tutorial. A package that helps create beautiful tables that incorporate color and pictures to make them much more appealing and informative.
 
 ## Data analysis
 
