@@ -27,6 +27,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[reticulate.](https://blog.rstudio.com/2018/10/09/rstudio-1-2-preview-reticulated-python/)** Package. Tutorial. A great way to code in Python within R. As of RStudio 1.2, reticulate can be used to start a Python environment, combine R and Python within the same R Markdown and produce plots! A great way of combining working within both languages.
 
+* **head.** Cool syntax. You can use negative indexes to remove from the end. For example, head(x, -1) will return all elements of object x apart from the last one.
+
 
 
 ## Text mining
