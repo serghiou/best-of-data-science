@@ -57,8 +57,6 @@ A collection of all resources and packages about R that I find interesting.
 
 **[summarytools.](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html)** Package. Tutorial. Produce pretty summary tables and contingency tables.
 
-**[tidybayes.](http://mjskay.github.io/tidybayes/)** Package. Tutorial. "A package that aims to make it easy to integrate popular Bayesian modeling methods into a tidy data + ggplot workflow."
-
 
 
 ## Data visualization
@@ -134,19 +132,21 @@ A collection of all resources and packages about R that I find interesting.
 
 ## Bayesian Statistics
 
-**[rstanarm.](http://mc-stan.org/rstanarm/articles/rstanarm.html)** Package. Vignette. This package truly makes Bayesian statistics accessible to the wider community of data scientists. It redefines the basic R functions for fitting models to fit Bayesian models using the Stan backend. Very highly recommended for your definitive answer to working with Bayesian statistics. [This](http://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html) is a fantastic tutorial on how to use rstanarm to fit hierarchical models (it also goes through the `lme4` package)!
-
-**[projpred.](http://mc-stan.org/projpred/articles/quickstart.html)** Package. Vignette. This package performs variable selection for fitting models using the rstanarm package. This is super useful in any kind of predictive data analysis exercise. It uses the Stan as a backend.
-
 **[rstan.](http://mc-stan.org/users/interfaces/rstan)** Package. Tutorial. A fantastic wrapper around the programming language Stan, which was specifically created to ease Hamiltonian Monte Carlo sampling methods for fitting Bayesian models. Mandatory for anyone interested in Bayesian data analysis.
 
 **[rstan examples.](https://github.com/stan-dev/example-models)** Examples. A super useful resource of example models fitted using RStan. This contains some of the most commonly used models when using RStan and has definitely saved me a lot of time in learning RStan and using it. Note that some fo the functions being used in these examples are dated, but I am sure RStan will let you know of the correct function to use.
 
-**[Towards a principled Bayesian workflow.](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html#1_bayesian_modeling_and_inference)** Examples. As per the official exapmles provided by RStan developers, this provides examples of fitting mixture models with RStan.
+**[rstanarm.](http://mc-stan.org/rstanarm/articles/rstanarm.html)** Package. Vignette. This package truly makes Bayesian statistics accessible to the wider community of data scientists. It redefines the basic R functions for fitting models to fit Bayesian models using the Stan backend. Very highly recommended for your definitive answer to working with Bayesian statistics. [This](http://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html) is a fantastic tutorial on how to use rstanarm to fit hierarchical models (it also goes through the `lme4` package)!
+
+**[tidybayes.](http://mjskay.github.io/tidybayes/)** Package. Tutorial. A great package that can take objects created using `rstanarm` or `stan` and provide the functions required to manipulate and analyze them using the principles of tidyverse.
+
+**[projpred.](http://mc-stan.org/projpred/articles/quickstart.html)** Package. Vignette. This package performs variable selection for fitting models using the rstanarm package. This is super useful in any kind of predictive data analysis exercise. It uses the Stan as a backend.
 
 **[loo.](http://mc-stan.org/loo/index.html)** Package. Examples. A fantastic package built by the RStan team to compare between Bayesian models. Works seamlessly with RStan and necessary for assessment of Bayesian models.
 
 **[bayesplot.](http://mc-stan.org/bayesplot/)** Package. Examples. A fatnastic package built by the RStan team to analyze the MCMC runs of your sampling and your posterior distributions. It creates super pretty plots using ggplot2 and provides the definitive solution to a tricky aspect of using Bayesian statistics.
+
+**[Towards a principled Bayesian workflow.](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html#1_bayesian_modeling_and_inference)** Examples. As per the official examples provided by RStan developers, this provides examples of fitting mixture models with RStan.
 
 **[RJAGS.](https://www.datacamp.com/courses/bayesian-modeling-with-rjags?tap_a=5644-dce66f&tap_s=10907-287229)** A super useful package for Bayesian modelling within R. This is a link to a tutorial on how to use it by the great as always DataCamp.
 
