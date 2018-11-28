@@ -176,9 +176,13 @@ A collection of all resources and packages about R that I find interesting.
 
 
 
-## Open Science
+## Meta-research and Open Science
 
 **[dlstats.](https://cran.r-project.org/web/packages/dlstats/vignettes/dlstats.html)** Package. It reports monthly downloads of any package on CRAN or Bioconductor across time.
+
+**[crminer.](https://github.com/ropensci/crminer)** Package. Tutorial. A super useful package! Supply it with a DOI and it will give you the link to the article, the PDF of the article (if accessible) and it will even convert that PDF to a text file for you, amongst others! Having played with this for a bit, as of Dec 2018, I could not get hold of many of the PDFs I actually have access through the university. Nevertheless, a very exciting prospect and a much-needed package.
+
+**[rcrossref.](https://ropensci.org/tutorials/rcrossref_tutorial/)** Package. Tutorial. Another great package by the rOpenSci community! This one is super useful in using the large database of CrossRef to identify the DOI of an article for which you only have the PMID and most importantly, identify citation counts from those mapped by CrossRef!
 
 
 
