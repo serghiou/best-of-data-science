@@ -112,6 +112,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[mlr.](https://www.analyticsvidhya.com/blog/2016/08/practicing-machine-learning-techniques-in-r-with-mlr-package/)** Package. Tutorial. A great tutorial on how to use the mlr framework to fit machine learning models in R - it allows for fitting multiple methods and for tuning parameters easily. Slower than H2O, but allows for a lot more methods.
 
+**[caret.](https://topepo.github.io/caret/index.html)** Package. Tutorial/Book. Caret is one of the most famous frameworks for machine leanring in R. It bares very high resemblence to mlr and it makes applying and analyzing the results of many machine learning algorithms easy and standardized. This book is a fantastic introduction to all that caret can do.
+
 **[coin.](https://cran.r-project.org/web/packages/coin/coin.pdf)** Package. The most popular package for all sorts of permutation tests.
 
 **[Boruta.](https://www.theguardian.com/higher-education-network/2018/aug/09/a-phd-should-be-about-improving-society-not-chasing-academic-kudos)** Package. Tutorial. A package to apply the boruta algorithm of feature selection for random forests.
