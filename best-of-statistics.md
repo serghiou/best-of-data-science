@@ -28,4 +28,10 @@
 
 
 
+## Statistical computing
+
+**[Advanced Statistical Computing.](https://bookdown.org/rdpeng/advstatcomp/)** A work in progress by Roger Peng of Johns Hopkins University. This is the book containing the material that he teaches in his statistical computing class to Biostatistics PhD students.
+
+
+
 </div>
