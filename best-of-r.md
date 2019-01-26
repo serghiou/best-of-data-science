@@ -186,6 +186,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[rcrossref.](https://ropensci.org/tutorials/rcrossref_tutorial/)** Package. Tutorial. Another great package by the rOpenSci community! This one is super useful in using the large database of CrossRef to identify the DOI of an article for which you only have the PMID and most importantly, identify citation counts from those mapped by CrossRef!
 
+**[tidypvals.](https://github.com/jtleek/tidypvals)** Package. Tutorial. An awesome package developed by Jeff Leek of Johns Hopkins University. It compiles the p-values gathered by some of the most important papers systematically looking at p-values (inlcuding the Chavalarias paper) into one single R package!
+
 
 
 ## Cloud computing and massive data
