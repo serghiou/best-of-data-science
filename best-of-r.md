@@ -168,6 +168,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[rticles.](https://github.com/rstudio/rticles)** Package. Vignette. Use templates to create articles written in a format appropriate for multiple journals of interest. I have not used this package yet, but it is recommended by RStudio.
 
+**[vitae.](https://www.r-bloggers.com/vitae-dynamic-cvs-with-r-markdown/)** Tutorial. Package. A package designed to help construct and update CVs quickly, without the fuss usually required to update one. I have not tried this one out, but it looks promising!
+
 
 
 ## Interface with other languages
