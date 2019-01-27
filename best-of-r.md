@@ -134,7 +134,7 @@ A collection of all resources and packages about R that I find interesting.
 
 ## Bayesian Statistics
 
-**[rstan.](http://mc-stan.org/users/interfaces/rstan)** Package. Tutorial. A fantastic wrapper around the programming language Stan, which was specifically created to ease Hamiltonian Monte Carlo sampling methods for fitting Bayesian models. Mandatory for anyone interested in Bayesian data analysis.
+**[rstan.](http://mc-stan.org/users/interfaces/rstan)** Package. Tutorial. A fantastic wrapper around the programming language Stan, which was specifically created to ease Hamiltonian Monte Carlo sampling methods for fitting Bayesian models. Mandatory for anyone interested in Bayesian data analysis. A great [tutorial](https://mc-stan.org/users/documentation/case-studies/identifying_mixture_models.html) on how to fit mixture models using rstan.
 
 **[rstan examples.](https://github.com/stan-dev/example-models)** Examples. A super useful resource of example models fitted using RStan. This contains some of the most commonly used models when using RStan and has definitely saved me a lot of time in learning RStan and using it. Note that some fo the functions being used in these examples are dated, but I am sure RStan will let you know of the correct function to use.
 
