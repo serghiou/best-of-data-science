@@ -102,9 +102,12 @@ A collection of all resources and packages about R that I find interesting.
 **[Visualization of missingness.](https://www.r-bloggers.com/how-to-perform-a-logistic-regression-in-r/amp/)** Package. Tutorial. A good example of how to easily visualize missingness across a dataset.
 
 
+
 ## Data presentation
 
 * **[formattable.](https://www.r-bloggers.com/make-beautiful-tables-with-the-formattable-package/amp/)** Package. Tutorial. A package that helps create beautiful tables that incorporate color and pictures to make them much more appealing and informative.
+
+
 
 ## Data analysis
 
@@ -131,6 +134,8 @@ A collection of all resources and packages about R that I find interesting.
 **[lme4.](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)** The standard and fastest package for fitting mixed-effects models. [Here](https://ase.tufts.edu/gsc/gradresources/guidetomixedmodelsinr/mixed%20model%20guide.html) is a great tutorial on how to go about fitting a mixed-effects model from Tufts University. [Here](http://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html) is another great tutorial by Berkeley, which combines this with discussing Bayesian fitting for hierachical models using `rstanarm`. When not fitting a generalized linear model, I use the [lmerTest](https://cran.r-project.org/web/packages/lmerTest/lmerTest.pdf) package, which makes testing the random-effects, comparing models and getting p-values a lot easier. 
 
 **[Implementation of G-Computation.](https://academic.oup.com/aje/article-lookup/doi/10.1093/aje/kwq472)** Tutorial. A great paper illustrating how to implement G-computation in R for causal inference.
+
+**[Contrasts in linear models.](https://www.clinicalstudydatarequest.com/Default.aspx)** Tutorial. A tutorial on how to use the "contrast" parameter when fitting linear models in R. This refers to the contrasts applied between levels of a factor.
 
 
 
