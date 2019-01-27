@@ -146,7 +146,7 @@ A collection of all resources and packages about R that I find interesting.
 
 **[loo.](http://mc-stan.org/loo/index.html)** Package. Examples. A fantastic package built by the RStan team to compare between Bayesian models. Works seamlessly with RStan and necessary for assessment of Bayesian models.
 
-**[bayesplot.](http://mc-stan.org/bayesplot/)** Package. Examples. A fatnastic package built by the RStan team to analyze the MCMC runs of your sampling and your posterior distributions. It creates super pretty plots using ggplot2 and provides the definitive solution to a tricky aspect of using Bayesian statistics.
+**[bayesplot.](http://mc-stan.org/bayesplot/)** Package. Examples. A fatnastic package built by the RStan team to analyze the MCMC runs of your sampling and your posterior distributions. It creates super pretty plots using ggplot2 and provides the definitive solution to a tricky aspect of using Bayesian statistics. [Another](https://cran.r-project.org/web/packages/bayesplot/vignettes/plotting-mcmc-draws.html) amazing tutorial on how to plot MCMC plots with bayesplot.
 
 **[Towards a principled Bayesian workflow.](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html#1_bayesian_modeling_and_inference)** Examples. As per the official examples provided by RStan developers, this provides examples of fitting mixture models with RStan.
 
