@@ -47,6 +47,11 @@ A collection of all resources and packages about R that I find interesting.
 
 
 
+## Data import/export
+
+**[datapasta.](https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html)** Package. Tutorial. This is a fantastic package that translates copied data in your clipboard into R input and your R output into copied data in your clipboard. It is amazing how it simply works and effortlessly knows how to handle your data. You can also assign its functions to a keyboard shortcut, which makes this a super easy way to import/export data. I love how it also quotes unquoted strings within a vector. Very highly recommended!
+
+
 ## Data summarization
 
 **[broom.](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)** Package. Tutorial. A great package to summarize models fit into meaningful data frames.
