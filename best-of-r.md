@@ -52,6 +52,7 @@ A collection of all resources and packages about R that I find interesting.
 **[datapasta.](https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html)** Package. Tutorial. This is a fantastic package that translates copied data in your clipboard into R input and your R output into copied data in your clipboard. It is amazing how it simply works and effortlessly knows how to handle your data. You can also assign its functions to a keyboard shortcut, which makes this a super easy way to import/export data. I love how it also quotes unquoted strings within a vector. Very highly recommended!
 
 
+
 ## Data summarization
 
 **[broom.](https://cran.r-project.org/web/packages/broom/vignettes/broom.html)** Package. Tutorial. A great package to summarize models fit into meaningful data frames.
@@ -73,6 +74,8 @@ A collection of all resources and packages about R that I find interesting.
 **[GGally.](http://ggobi.github.io/ggally/#ggally)** Package. Tutorial. Mind-blowingly good extension to ggplot2 to summarize data (try replacing `graphics::pairs` with `GGally::ggpairs`!), model coefficients, survival data, maps, networks and create beautiful grids. Astonished.
 
 **[ggpubr.](http://www.sthda.com/english/rpkgs/ggpubr/)** A ggplot2 wrapper that helps create good looking figures ready for publication, including text on the plots and star indications for significance.
+
+**[bbplot.](https://github.com/bbc/bbplot)** Package. A ggplot2 wrapper that helps create good looking figures in the style of BBC - apparently now BBC uses this package to produce figures.
 
 **[ggridges](https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html)** Package. Vignette. A package for easily building good-looking ridgeplots (plots in which the distribution of different parameters is plotted within the same plot). A useful package - some of these can be done well using other packages as well, such as dotwhisker and bayesplot.
 
