@@ -75,9 +75,11 @@ A collection of all resources and packages about R that I find interesting.
 
 **[ggpubr.](http://www.sthda.com/english/rpkgs/ggpubr/)** A ggplot2 wrapper that helps create good looking figures ready for publication, including text on the plots and star indications for significance.
 
-**[bbplot.](https://github.com/bbc/bbplot)** Package. A ggplot2 wrapper that helps create good looking figures in the style of BBC - apparently now BBC uses this package to produce figures.
+**[ggsignif.](https://cran.r-project.org/web/packages/ggsignif/vignettes/intro.html)** Package. Tutorial. An extension to ggplot2 that can be used to add details about hypothesis testing (e.g. asterisks) to your plot.
 
 **[ggridges](https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html)** Package. Vignette. A package for easily building good-looking ridgeplots (plots in which the distribution of different parameters is plotted within the same plot). A useful package - some of these can be done well using other packages as well, such as dotwhisker and bayesplot.
+
+**[bbplot.](https://github.com/bbc/bbplot)** Package. A ggplot2 wrapper that helps create good looking figures in the style of BBC - apparently now BBC uses this package to produce figures.
 
 **[corrplot.](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)** Package. Tutorial. A package to easily produce beautiful and intuitive correlation plots.
 
