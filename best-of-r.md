@@ -213,6 +213,10 @@ A collection of all resources and packages about R that I find interesting.
 
 **[googleCloudStorageR.](https://cran.r-project.org/web/packages/googleCloudStorageR/vignettes/googleCloudStorageR.html)** Package. Tutorial. A report on how to interact with the Google Storage API of the Google Cloud Platform through R.
 
+**[RStudio Cloud.](https://rstudio.cloud/)** Cloud service. Run RStudio on the cloud - no need to download R or RStudio on your computer - operational within minutes!
+
+**[Code Ocean.](https://sg-mktg.com/MTU1MjMyODMwMXxsY0IyWUdVTkV0RzVLNEhYM2hYalJ0QXlzMFZ1QVpsLTlkNDZJQnRIalNqRVZCcmhFV2hSUlRwblB3eThrbkNiVWotczBnaHNjTlp1Vk8tVTRiTFplN2xRS2h0NGRKanFhd3hjbUV5RkswM3VESjRITzJLSFFQSmJ2MEd4UHg0djk0ZXk1TURUTlZ4MWRqRlBCcHZCVUtzTzBjUjlEcl8xc2EtV1lzU0V5dnJkLVZVVm1FZlVhdDFZWU5XUUlsRDlNelZrU05ESDJhWVNZRTVKR1J5YUdXdmtkUjdTSmFvQXhoaHYza1VyR2VjUVZYR1ZYU0ZXYVZfZWJRPT18Oq6J2KrRn-rnoPREkROiJZPNAsoZpNRA9JjbWtapG_8=)** Cloud service. You can launch a Cloud Workstation with JupyterLab or RStudio to develop or test code on a powerful cloud computing machine using familiar tools and workflows. Specifically designed to enhance reproducibility.
+
 **[How to manage memory in R.](https://stackoverflow.com/questions/1358003/tricks-to-manage-the-available-memory-in-an-r-session)** Tutorial. A good guide on managing memory in R.
 
 
