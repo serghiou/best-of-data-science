@@ -6,6 +6,8 @@
 
 **[Modern Statistics for Modern Biology.](http://web.stanford.edu/class/bios221/book/)** Book. An open book containing the essentials of modern statistical approaches to data analysis in biology. I love the interface, the comments on the side, the seamlessly integrated questions/answers and the examples of R code.
 
+**[Elementary Statistics by Penn State.](https://newonlinecourses.science.psu.edu/stat200/home)** Course. Book. This is a superbly well designed course on statistics, which also emphasizes the computational approach to learning statistics (e.g. simulations). I would have liked they used a less traditional approach in describing statistical significance. Nevertheless, very highly recommended.
+
 
 ## Frequentist
 
