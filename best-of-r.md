@@ -71,15 +71,17 @@ A collection of all resources and packages about R that I find interesting.
 
 **[ggplot2.](https://ggplot2.tidyverse.org/)** Package. Tutorial. By far the most popular package for data visualization in R. Look for visualization packages starting with "gg" - these contain custom functions to produce plots using ggplot2. Some of the attributes in ggplot2 may be tricky to use: go to the official ggplot2 wiki [here](https://github.com/tidyverse/ggplot2/wiki/Legend-Attributes) for some really good explanations of these.
 
-**[ggeffects.](https://www.r-bloggers.com/marginal-effects-for-regression-models-in-r-rstats-dataviz/amp/)** Package. Tutorial. A package to easily produce pretty ggplots of predicted value distributions across model specifications.
-
 **[GGally.](http://ggobi.github.io/ggally/#ggally)** Package. Tutorial. Mind-blowingly good extension to ggplot2 to summarize data (try replacing `graphics::pairs` with `GGally::ggpairs`!), model coefficients, survival data, maps, networks and create beautiful grids. Astonished.
 
-**[ggpubr.](http://www.sthda.com/english/rpkgs/ggpubr/)** A ggplot2 wrapper that helps create good looking figures ready for publication, including text on the plots and star indications for significance.
+**[ggrepel](https://cran.r-project.org/web/packages/ggrepel/vignettes/ggrepel.html)**. Package. Vignette. This is an amazing package for adding text and labels to your plot. It replaces geom_text() with geom_text_repel() and geom_label() with geom_label_repel() to add a huge amount of super necessary functionality, such as lines connecting the label to the point, making usre labels close to each other do not overlap and controlling all sorts of different aspects of fitting text/labels with ease. A fantastic package that simply works and should really replace the functions currently offered by ggplot2.
 
 **[ggsignif.](https://cran.r-project.org/web/packages/ggsignif/vignettes/intro.html)** Package. Tutorial. An extension to ggplot2 that can be used to add details about hypothesis testing (e.g. asterisks) to your plot.
 
+**[ggpubr.](http://www.sthda.com/english/rpkgs/ggpubr/)** A ggplot2 wrapper that helps create good looking figures ready for publication, including text on the plots and star indications for significance.
+
 **[ggridges](https://cran.r-project.org/web/packages/ggridges/vignettes/introduction.html)** Package. Vignette. A package for easily building good-looking ridgeplots (plots in which the distribution of different parameters is plotted within the same plot). A useful package - some of these can be done well using other packages as well, such as dotwhisker and bayesplot.
+
+**[ggeffects.](https://www.r-bloggers.com/marginal-effects-for-regression-models-in-r-rstats-dataviz/amp/)** Package. Tutorial. A package to easily produce pretty ggplots of predicted value distributions across model specifications.
 
 **[bbplot.](https://github.com/bbc/bbplot)** Package. A ggplot2 wrapper that helps create good looking figures in the style of BBC - apparently now BBC uses this package to produce figures.
 
