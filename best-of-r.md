@@ -65,6 +65,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[summarytools.](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html)** Package. Tutorial. Produce pretty summary tables and contingency tables.
 
+**[papeR.](https://cran.r-project.org/web/packages/papeR/vignettes/papeR_introduction.html)** Package. Tutorial. A package to produce summary statistics quickly. I particularly like the ease of choosing which type of variables to summarize, how to group those variables and how to produce pretty LaTeX/HTML output tables without having to rely on other packages, such as ktable.
+
 
 
 ## Data visualization
