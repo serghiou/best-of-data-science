@@ -7,7 +7,7 @@ A collection of all resources and packages about R that I find interesting.
 
 ## To learn R
 
-**[DataCamp.](https://swirlstats.com/)** Tutorial. A fantastic collection of tutorials on R, including introduction to the basics as well as more advanced topics.
+**[DataCamp.](https://swirlstats.com/)** Tutorial. A fantastic collection of tutorials on R, including introduction to the basics as well as more advanced topics. David Robinson of DataCamp posts screencasts of data analysis using tidyverse on YouTube every Tuesday as part of #TidyTuesday that are super instructional [here](https://www.youtube.com/channel/UCeiiqmVK07qhY-wvg3IZiZQ)!
 
 **[Quick-R.](https://www.statmethods.net/index.html)** Tutorial. A fantastic website with anything one would need to start analyzing data using R.
 
