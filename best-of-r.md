@@ -119,12 +119,6 @@ A collection of all resources and packages about R that I find interesting.
 
 
 
-## Data presentation
-
-* **[formattable.](https://www.r-bloggers.com/make-beautiful-tables-with-the-formattable-package/amp/)** Package. Tutorial. A package that helps create beautiful tables that incorporate color and pictures to make them much more appealing and informative.
-
-
-
 ## Data analysis
 
 **[H2O.](https://github.com/h2oai/h2o-tutorials/blob/master/tutorials/glm/glm.md)** Package. Tutorial. A fantastic package for speeding up the process of fitting machine learning models. This is a tutorial illustrating how to use the H2O package. [Here](https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/tutorials/gbm/gbmTuning.Rmd) is a tutorial on how to use GBM with H2O.
@@ -198,6 +192,14 @@ A collection of all resources and packages about R that I find interesting.
 **[rticles.](https://github.com/rstudio/rticles)** Package. Vignette. Use templates to create articles written in a format appropriate for multiple journals of interest. I have not used this package yet, but it is recommended by RStudio.
 
 **[vitae.](https://www.r-bloggers.com/vitae-dynamic-cvs-with-r-markdown/)** Tutorial. Package. A package designed to help construct and update CVs quickly, without the fuss usually required to update one. I have not tried this one out, but it looks promising!
+
+
+
+## Data presentation
+
+* **[kableExtra.](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)** Package. Tutorial. An indisposable package in creating beautiful tables, ready for publication. It does not come without its glitches (I have yet to make certain of its functions work), but I use it in almost every report I produce. It can be used to format [HTML files](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) or [LaTeX files](http://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf).
+
+* **[formattable.](https://www.r-bloggers.com/make-beautiful-tables-with-the-formattable-package/amp/)** Package. Tutorial. A package that helps create beautiful tables that incorporate color and pictures to make them much more appealing and informative.
 
 
 
