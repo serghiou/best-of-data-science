@@ -197,9 +197,9 @@ A collection of all resources and packages about R that I find interesting.
 
 ## Data presentation
 
-* **[kableExtra.](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)** Package. Tutorial. An indisposable package in creating beautiful tables, ready for publication. It does not come without its glitches (I have yet to make certain of its functions work), but I use it in almost every report I produce. It can be used to format [HTML files](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) or [LaTeX files](http://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf).
+**[kableExtra.](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)** Package. Tutorial. An indisposable package in creating beautiful tables, ready for publication. It does not come without its glitches (I have yet to make certain of its functions work), but I use it in almost every report I produce. It can be used to format [HTML files](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) or [LaTeX files](http://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf).
 
-* **[formattable.](https://www.r-bloggers.com/make-beautiful-tables-with-the-formattable-package/amp/)** Package. Tutorial. A package that helps create beautiful tables that incorporate color and pictures to make them much more appealing and informative.
+**[formattable.](https://www.r-bloggers.com/make-beautiful-tables-with-the-formattable-package/amp/)** Package. Tutorial. A package that helps create beautiful tables that incorporate color and pictures to make them much more appealing and informative.
 
 
 
