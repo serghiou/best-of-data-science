@@ -71,6 +71,8 @@ A collection of all resources and packages about R that I find interesting.
 
 ## Data visualization
 
+**[Data-to-Viz.](https://www.data-to-viz.com/)** Vignette. Educational. This is a beautiful and SUPERB website including all sorts of different plots you might imagine alongside the required code to produce them and, most importantly, ways to avoid caveats/mistakes usually done when using such plots. An unbelievable resource and a must in the armamentarium of anyone working with data.
+
 **[ggplot2.](https://ggplot2.tidyverse.org/)** Package. Tutorial. By far the most popular package for data visualization in R. Look for visualization packages starting with "gg" - these contain custom functions to produce plots using ggplot2. Some of the attributes in ggplot2 may be tricky to use: go to the official ggplot2 wiki [here](https://github.com/tidyverse/ggplot2/wiki/Legend-Attributes) for some really good explanations of these.
 
 **[GGally.](http://ggobi.github.io/ggally/#ggally)** Package. Tutorial. Mind-blowingly good extension to ggplot2 to summarize data (try replacing `graphics::pairs` with `GGally::ggpairs`!), model coefficients, survival data, maps, networks and create beautiful grids. Astonished.
