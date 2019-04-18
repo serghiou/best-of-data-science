@@ -179,17 +179,21 @@ A collection of all resources and packages about R that I find interesting.
 
 **[R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)** Book. Written by Yihui Xie, who is the creator of knitr and the definite guide to using R Markdown. Very well written and contains the answer to 95% of the questions I usually have in using R Markdown. A treasure in finding functions of R Markdown you never thought existed.
 
+**[A few tips for R Markdown.](https://holtzy.github.io/Pimp-my-rmd/)** Vignette. This is for slightly more advanced users of R Markdown and it goes through some tricks that you may want to learn (e.g. how to reference within the document, how to use interactive tables, etc.). I primarily like this because it provides a lead towards starting to create your own customized HTML templates!
+
 **[R Markdown Templates.](http://jianghao.wang/post/2017-12-08-rmarkdown-templates/)** Collection. A collection of some of the most important packages of templates for R Markdown (both pdf and HTML). [This](https://ropensci.org/tutorials/tokenizers_tutorial/) is probably the most beautiful R Markdown document that I have seen, but I do not know which template they are using.
 
 **[R Markdown Theme Gallery.](http://www.datadreaming.org/post/r-markdown-theme-gallery/)** Collection. A collection of some of the most important packages and templates for R Markdown HTML. This is where I found most of the packages that I use for my HTML themes.
 
-**[R Script to HTML.](https://www.r-bloggers.com/how-to-create-professional-reports-from-r-scripts-with-custom-styles/)** Tutorial. A fantastic tutorial on rmarkdown and how to use it to introduce custom CSS stylesheets and most importantly how to render R Script files into HTML! The latter is fantastically useful and would have saved me tons of time if I had known earlier.
+**[R Script to HTML.](https://www.r-bloggers.com/how-to-create-professional-reports-from-r-scripts-with-custom-styles/)** Tutorial. A fantastic tutorial on rmarkdown and how to use it to introduce custom CSS stylesheets and most importantly how to render R Script files into HTML! The latter is fantastically useful and would have saved me tons of time if I had known about it earlier.
 
-**[tufte.](https://rstudio.github.io/tufte/)** A package to create very pretty HTML and LaTeX outputs of identical formatting. It uses the Tufte style, which allows producing side-comments and side-plots super easily. Highly recommended!
+**[prettydoc.](https://yixuan.cos.name/prettydoc/)** Package. Vignette. Super good looking HTML templates for R Markdown output. I particularly like the hpstr (my current default) and architect themes.
 
 **[rmdformats.](https://github.com/juba/rmdformats)** Package. Vignette. Super good looking HTML templates for R Markdown output. I love and extensively use the readthedown format from this package.
 
-**[prettydoc.](https://yixuan.cos.name/prettydoc/)** Package. Vignette. Super good looking HTML templates for R Markdown output. I particularly like the hpstr (my current default) and architect themes.
+**[epuRate.](https://github.com/holtzy/epuRate)** Package. Very good looking HTML templates for R Markdown by Yan Holtz. I really  like being able to hide code and to have the table of contents on the side. This template is particularly useful in learning how to create your own templates, as detailed by Yan [here](https://holtzy.github.io/Pimp-my-rmd/). To install this package, go to the linked GitHub, download the repo on your computer (go to "Clone or download" and then click "Download zip"), unzip it and then go to RStudio and finally do `library(devtools); install("path/to/eduRate"); library(eduRate)` - do not use `install_github` as recommended on the repo because it gave me an error (in April, 2019). You may want to restart RStudio if it does not show up right away in your templates.
+
+**[tufte.](https://rstudio.github.io/tufte/)** A package to create very pretty HTML and LaTeX outputs of identical formatting. It uses the Tufte style, which allows producing side-comments and side-plots super easily. Highly recommended!
 
 **[bookdown.](https://bookdown.org/)** Package. Vignette. A package to write awesome-looking books using R Markdown. The definitive guide referenced here, as well as the celebrated Advanced R book by Hadley were written in bookdown and they all look super impressive! This package also makes it easy to have openly available books online.
 
