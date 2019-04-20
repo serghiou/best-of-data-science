@@ -45,6 +45,8 @@ A collection of useful resources and packages.
 
 **[Data-to-Viz.](https://www.data-to-viz.com/)** Vignette. Educational. This is a beautiful and SUPERB website created by Yan Holtz including all sorts of different plots you might imagine alongside the required code to produce them and, most importantly, ways to avoid caveats/mistakes usually done when using such plots. An unbelievable resource and a must in the armamentarium of anyone working with data.
 
+**[Reviewing Python Visualization Packages](https://towardsdatascience.com/reviewing-python-visualization-packages-fa7fe12e622b)** Review. A good overview of visualization packages available for Python and their basic use.
+
 
 
 
