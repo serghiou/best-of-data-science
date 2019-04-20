@@ -151,6 +151,8 @@ A collection of all resources and packages about R that I find interesting.
 
 **[Contrasts in linear models.](https://www.clinicalstudydatarequest.com/Default.aspx)** Tutorial. A tutorial on how to use the "contrast" parameter when fitting linear models in R. This refers to the contrasts applied between levels of a factor.
 
+**[iBreakDown.](https://www.r-bloggers.com/ibreakdown-faster-prettier-and-more-precise-explanations-for-predictive-models-with-interactions/)** Package. Overview. A package to help explain prediction models - I have not tried it yet, but it appears promising.
+
 
 
 ## Bayesian Statistics
