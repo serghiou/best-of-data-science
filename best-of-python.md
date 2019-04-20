@@ -5,7 +5,9 @@
 A collection of useful resources and packages.
 
 
-## To learn R
+## To learn Python
+
+**[Learning Data Science: Our Favorite Python Resources](https://hackernoon.com/learning-data-science-our-favorite-python-resources-from-free-to-not-877fca5c92f0)** Overview. An overview of resources to learn more about Python by Hackernoon on Medium.
 
 
 
