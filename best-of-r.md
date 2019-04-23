@@ -4,6 +4,7 @@
 
 A collection of all resources and packages about R that I find interesting.
 
+***
 
 ## To learn R
 
@@ -15,7 +16,7 @@ A collection of all resources and packages about R that I find interesting.
 
 **[R for Data Science.](https://r4ds.had.co.nz/)** Book. Written by Garrett Grolemund and Hadley Wickham - do I need to say anything else? This is a book written in RMarkdown using bookdown and contains all you need to know for basic data science using the tidyverse!
 
-
+***
 
 ## Syntax
 
@@ -29,13 +30,13 @@ A collection of all resources and packages about R that I find interesting.
 
 * **head.** Cool syntax. You can use negative indexes to remove from the end. For example, head(x, -1) will return all elements of object x apart from the last one.
 
-
+***
 
 ## Text mining
 
 **[Text mining with R.](https://www.tidytextmining.com/)** Book. A great GitHub resource with code for cutting-edge text mining with R.
 
-
+***
 
 ## Data manipulation
 
@@ -45,7 +46,7 @@ A collection of all resources and packages about R that I find interesting.
 
 **[zeallot.](https://github.com/r-lib/zeallot#zeallot)** Package. A clever way to unpack data from objects such as data frames or lists into newly defined vectors using a new operator: %<-%.
 
-
+***
 
 ## Data import/export
 
@@ -53,7 +54,7 @@ A collection of all resources and packages about R that I find interesting.
 
 **[vroom.](https://github.com/jimhester/vroom)** Package. Tutorial. Lighting fast import of .csv files (x10 faster than data.table). It does this by only accessing the part of the database required for the action needed.
 
-
+***
 
 ## Data description/summarization
 
@@ -67,7 +68,7 @@ A collection of all resources and packages about R that I find interesting.
 
 **[papeR.](https://cran.r-project.org/web/packages/papeR/vignettes/papeR_introduction.html)** Package. Tutorial. A package to produce summary statistics quickly. I particularly like the ease of choosing which type of variables to summarize, how to group those variables and how to produce pretty LaTeX/HTML output tables without having to rely on other packages, such as ktable.
 
-
+***
 
 ## Data visualization
 
@@ -121,7 +122,7 @@ A collection of all resources and packages about R that I find interesting.
 
 **[Visualization of missingness.](https://www.r-bloggers.com/how-to-perform-a-logistic-regression-in-r/amp/)** Package. Tutorial. A good example of how to easily visualize missingness across a dataset.
 
-
+***
 
 ## Data analysis
 
@@ -153,7 +154,7 @@ A collection of all resources and packages about R that I find interesting.
 
 **[iBreakDown.](https://www.r-bloggers.com/ibreakdown-faster-prettier-and-more-precise-explanations-for-predictive-models-with-interactions/)** Package. Overview. A package to help explain prediction models - I have not tried it yet, but it appears promising.
 
-
+***
 
 ## Bayesian Statistics
 
@@ -175,7 +176,7 @@ A collection of all resources and packages about R that I find interesting.
 
 **[RJAGS.](https://www.datacamp.com/courses/bayesian-modeling-with-rjags?tap_a=5644-dce66f&tap_s=10907-287229)** A super useful package for Bayesian modelling within R. This is a link to a tutorial on how to use it by the great as always DataCamp.
 
-
+***
 
 ## RMarkdown
 
@@ -203,7 +204,7 @@ A collection of all resources and packages about R that I find interesting.
 
 **[vitae.](https://www.r-bloggers.com/vitae-dynamic-cvs-with-r-markdown/)** Tutorial. Package. A package designed to help construct and update CVs quickly, without the fuss usually required to update one. I have not tried this one out, but it looks promising!
 
-
+***
 
 ## Data presentation
 
@@ -211,7 +212,13 @@ A collection of all resources and packages about R that I find interesting.
 
 **[formattable.](https://www.r-bloggers.com/make-beautiful-tables-with-the-formattable-package/amp/)** Package. Tutorial. A package that helps create beautiful tables that incorporate color and pictures to make them much more appealing and informative.
 
+***
 
+## Shiny
+
+**[Winners of the 1st Shiny Contest](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/)** Examples. These are examples of beautiful pages created with Shiny  from the 2019 shiny  contest - code is available to look at and learn from!
+
+***
 
 ## Interface with other languages
 
