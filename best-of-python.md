@@ -26,6 +26,8 @@ A collection of useful resources and packages.
 
 ## Data manipulation
 
+**[Pandas.](https://stmorse.github.io/journal/tidyverse-style-pandas.html)** Tutorial. This is a fantastic tutorial on how to translate code from R's Tidyverse to Python Pandas.
+
 
 
 
