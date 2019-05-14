@@ -2,7 +2,7 @@
 
 <div align="justify">
 
-A collection of all resources and packages about R that I find interesting.
+A collection of all resources and packages about R that I find interesting. Please cite the repository if using its resources and let me know of packages that you love that I (most probably!) have missed!
 
 ***
 
