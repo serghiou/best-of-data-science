@@ -158,6 +158,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[iBreakDown.](https://www.r-bloggers.com/ibreakdown-faster-prettier-and-more-precise-explanations-for-predictive-models-with-interactions/)** Package. Overview. A package to help explain prediction models - I have not tried it yet, but it appears promising.
 
+**[MASS.](https://cran.r-project.org/web/packages/MASS/MASS.pdf)** Package. Documentation. An indispensible package containing some very useful functions complementary to Base R (e.g. the ability to fit negative binomial regression). I also particularly like the `fitdistr` function, which uses maximum likelihood to identify the parameters of the assumed underlying distribution.
+
 ***
 
 ## Bayesian Statistics
