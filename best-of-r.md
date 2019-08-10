@@ -126,6 +126,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[Visualization of missingness.](https://www.r-bloggers.com/how-to-perform-a-logistic-regression-in-r/amp/)** Package. Tutorial. A good example of how to easily visualize missingness across a dataset.
 
+**[Survival function in Cox regression.](Calculating survival probability per person at time (t) from Cox PH)** Tutorial. Fitting a Cox regression in R is straight forward, but it is not immediately apparent how to obtain the survival function. This is a great answer on Stack Overflow with guidance on how to do so.
+
 ***
 
 ## Data analysis
