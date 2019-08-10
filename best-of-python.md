@@ -67,12 +67,8 @@ A collection of useful resources and packages.
 
 ## Bayesian Statistics
 
+**[Bayesian Data Analysis in Python.](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)** Tutorial. A great resource with applied guidance on how to produce Bayesian analyses in Python.
 
-
-
-
-
-## RMarkdown
 
 
 
