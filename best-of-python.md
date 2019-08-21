@@ -61,6 +61,7 @@ A collection of useful resources and packages.
 
 ## Data analysis
 
+**[Kaggle: Faster Data Science Education.]**(https://www.kaggle.com/learn/overview) Tutorial. A fantastic set of tutorials on all of the tools required, from Python to Pandas to Deep Learning. A highly-recommended resource, especially for those with minimal previous exposure to programming and machine learning.
 
 
 
