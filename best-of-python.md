@@ -34,6 +34,8 @@ A collection of useful resources and packages.
 
 ## Data import/export
 
+** [The most time efficient ways to import CSV data in Python.](https://medium.com/casual-inference/the-most-time-efficient-ways-to-import-csv-data-in-python-cc159b44063d)** Tutorial. A great exploration of ways to import CSV files in Python, contrasting straight forward approaches, versus speedy approaches.
+
 
 
 
