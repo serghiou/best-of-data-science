@@ -128,7 +128,9 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[Survival function in Cox regression.](Calculating survival probability per person at time (t) from Cox PH)** Tutorial. Fitting a Cox regression in R is straight forward, but it is not immediately apparent how to obtain the survival function. This is a great answer on Stack Overflow with guidance on how to do so.
 
+
 ***
+
 
 ## Data analysis
 
@@ -139,6 +141,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 **[mlr.](https://www.analyticsvidhya.com/blog/2016/08/practicing-machine-learning-techniques-in-r-with-mlr-package/)** Package. Tutorial. A great tutorial on how to use the mlr framework to fit machine learning models in R - it allows for fitting multiple methods and for tuning parameters easily. Slower than H2O, but allows for a lot more methods.
 
 **[caret.](https://topepo.github.io/caret/index.html)** Package. Tutorial/Book. Caret is one of the most famous frameworks for machine leanring in R. It bares very high resemblence to mlr and it makes applying and analyzing the results of many machine learning algorithms easy and standardized. This book is a fantastic introduction to all that caret can do. [This](https://www.kaggle.com/tobikaggle/compare-multiple-classification-models-with-caret) is a great tutorial on Kaggle on how to compare multiple classification models using caret.
+
+**[SuperLearner.](https://cran.r-project.org/web/packages/SuperLearner/vignettes/Guide-to-SuperLearner.html)** Package. Tutorial. A very well-done package, the primary advantage of which is its ability to automatically ensemble all fitted models into a new model. It offers all important learning algorithms, makes it easy to add your own algorithms, tune the algorithms or select features. Highly recommended!
 
 **[coin.](https://cran.r-project.org/web/packages/coin/coin.pdf)** Package. The most popular package for all sorts of permutation tests.
 
@@ -162,7 +166,9 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[MASS.](https://cran.r-project.org/web/packages/MASS/MASS.pdf)** Package. Documentation. An indispensible package containing some very useful functions complementary to Base R (e.g. the ability to fit negative binomial regression). I also particularly like the `fitdistr` function, which uses maximum likelihood to identify the parameters of the assumed underlying distribution.
 
+
 ***
+
 
 ## Bayesian Statistics
 
@@ -184,7 +190,9 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[RJAGS.](https://www.datacamp.com/courses/bayesian-modeling-with-rjags?tap_a=5644-dce66f&tap_s=10907-287229)** A super useful package for Bayesian modelling within R. This is a link to a tutorial on how to use it by the great as always DataCamp.
 
+
 ***
+
 
 ## RMarkdown
 
@@ -212,7 +220,9 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[vitae.](https://www.r-bloggers.com/vitae-dynamic-cvs-with-r-markdown/)** Tutorial. Package. A package designed to help construct and update CVs quickly, without the fuss usually required to update one. I have not tried this one out, but it looks promising!
 
+
 ***
+
 
 ## Data presentation
 
@@ -220,7 +230,9 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[formattable.](https://www.r-bloggers.com/make-beautiful-tables-with-the-formattable-package/amp/)** Package. Tutorial. A package that helps create beautiful tables that incorporate color and pictures to make them much more appealing and informative.
 
+
 ***
+
 
 ## Shiny
 
@@ -234,6 +246,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[reticulate.](https://github.com/rstudio/reticulate)** Package. Vignette. A package to interface Python within R Markdown. An exciting development, but I have not used this package enough to have specific opinions - so far, so good.
 
+
+***
 
 
 ## Meta-research and Open Science
