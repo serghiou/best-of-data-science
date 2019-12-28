@@ -12,6 +12,8 @@ New text editors appear all the time. This is a list of text editors I find part
 
 ## LaTeX
 
-* **[Overleaf/ShareLaTeX.](https://www.overleaf.com/)**
+* **[Overleaf/ShareLaTeX.](https://www.overleaf.com/)** The best editor for LaTeX I have found so far. It makes creating such documents super easy. Love the integration with GitHub and how easy to makes it to cite.
+
+* **[Thesis template.](https://github.com/dcroote/stanford-thesis-example)** A template created by a Stanford graduate to help others write their thesis in LaTeX painlessly.
 
 </div>
