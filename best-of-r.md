@@ -234,9 +234,11 @@ A collection of all resources and packages about R that I find interesting. Plea
 ***
 
 
-## Shiny
+## Web development/Shiny
 
 **[Winners of the 1st Shiny Contest](https://blog.rstudio.com/2019/04/05/first-shiny-contest-winners/)** Examples. These are examples of beautiful pages created with Shiny  from the 2019 shiny  contest - code is available to look at and learn from!
+
+**[modelDown.](https://www.r-bloggers.com/modeldown-is-now-on-cran/)** Package. The modelDown package turns classification or regression models into HTML static websites. With one command you can convert one or more models into a website with visual and tabular model summaries. Summaries like model performance, feature importance, single feature response profiles and basic model audits.
 
 ***
 
