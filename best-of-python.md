@@ -7,7 +7,8 @@ A collection of useful resources and packages.
 
 ## To learn Python
 
-**[Learning Data Science: Our Favorite Python Resources](https://hackernoon.com/learning-data-science-our-favorite-python-resources-from-free-to-not-877fca5c92f0)** Overview. An overview of resources to learn more about Python by Hackernoon on Medium.
+**[Learning Data Science: Our Favorite Python Resources.](https://hackernoon.com/learning-data-science-our-favorite-python-resources-from-free-to-not-877fca5c92f0)** Overview. An overview of resources to learn more about Python by Hackernoon on Medium.
+
 
 
 ***
@@ -18,8 +19,11 @@ A collection of useful resources and packages.
 
 
 
+***
+
 ## Syntax
 
+**[Commenting best practice.](https://realpython.com/python-comments-guide/)** Tutorial. A great explanation with examples of how to comment in Python and how to make sure that you are including appropriate (not too many, not too few) comments in your code.
 
 
 
