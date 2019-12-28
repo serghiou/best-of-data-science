@@ -130,6 +130,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[Survival function in Cox regression.](Calculating survival probability per person at time (t) from Cox PH)** Tutorial. Fitting a Cox regression in R is straight forward, but it is not immediately apparent how to obtain the survival function. This is a great answer on Stack Overflow with guidance on how to do so.
 
+**[rbokeh.](https://realpython.com/python-comments-guide/)** Package. Tutorial. Bokeh is a visualization library that provides a flexible and powerful declarative framework for creating web-based plots. Bokeh renders plots using HTML canvas and provides many mechanisms for interactivity. Bokeh has interfaces in Python, Scala, Julia, and now R.
+
 
 ***
 
