@@ -232,7 +232,7 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[kableExtra.](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html)** Package. Tutorial. An indisposable package in creating beautiful tables, ready for publication. It does not come without its glitches (I have yet to make certain of its functions work, such as not repeating a word across rows in LaTeX), but I use it in almost every report I produce. It can be used to produce [HTML files](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html) or [LaTeX files](http://haozhu233.github.io/kableExtra/awesome_table_in_pdf.pdf) and it always amazes me with the flexibility it allows. Two tips are: (1) use `options()` at the very start of your RMarkdown file to define table characteristics so that you do not have to do that every time you call `kable()` and (2) remember to set the chunks in which you are using `kable()` to `results='asis'`.
 
-**[formattable.](https://www.r-bloggers.com/make-beautiful-tables-with-the-formattable-package/amp/)** Package. Tutorial. A package that helps create beautiful tables that incorporate color and pictures to make them much more appealing and informative.
+**[formattable.](https://www.r-bloggers.com/make-beautiful-tables-with-the-formattable-package/amp/)** Package. Tutorial. A package that helps create beautiful tables that incorporate color and pictures to make them much more appealing and informative. Another great tutorial for `formattable` can be found [here](https://www.littlemissdata.com/blog/prettytables).
 
 
 ***
