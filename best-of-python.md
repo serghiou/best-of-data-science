@@ -10,6 +10,11 @@ A collection of useful resources and packages.
 **[Learning Data Science: Our Favorite Python Resources](https://hackernoon.com/learning-data-science-our-favorite-python-resources-from-free-to-not-877fca5c92f0)** Overview. An overview of resources to learn more about Python by Hackernoon on Medium.
 
 
+***
+
+## IDE/Distributions
+
+**[Python distributions.](https://www.infoworld.com/article/3267976/python/anaconda-cpython-pypy-and-more-know-your-python-distributions.amp.html)** Collection. A good collection of Python distributions and their use cases. The commonest distribution of Python is CPython.
 
 
 
