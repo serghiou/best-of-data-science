@@ -40,6 +40,14 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 ***
 
+## Data import/export
+
+**[datapasta.](https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html)** Package. Tutorial. This is a fantastic package that translates copied data in your clipboard into R input and your R output into copied data in your clipboard. It is amazing how it simply works and effortlessly knows how to handle your data. You can also assign its functions to a keyboard shortcut, which makes this a super easy way to import/export data. I love how it also quotes unquoted strings within a vector. Very highly recommended!
+
+**[vroom.](https://github.com/jimhester/vroom)** Package. Tutorial. Lighting fast import of .csv files (x10 faster than data.table). It does this by only accessing the part of the database required for the action needed.
+
+***
+
 ## Data manipulation
 
 **[dplyr.](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)** Package. Tutorial. By far the most popular package for data manipulation in R. Part of the tidyverse.
@@ -48,13 +56,7 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[zeallot.](https://github.com/r-lib/zeallot#zeallot)** Package. A clever way to unpack data from objects such as data frames or lists into newly defined vectors using a new operator: %<-%.
 
-***
-
-## Data import/export
-
-**[datapasta.](https://cran.r-project.org/web/packages/datapasta/vignettes/how-to-datapasta.html)** Package. Tutorial. This is a fantastic package that translates copied data in your clipboard into R input and your R output into copied data in your clipboard. It is amazing how it simply works and effortlessly knows how to handle your data. You can also assign its functions to a keyboard shortcut, which makes this a super easy way to import/export data. I love how it also quotes unquoted strings within a vector. Very highly recommended!
-
-**[vroom.](https://github.com/jimhester/vroom)** Package. Tutorial. Lighting fast import of .csv files (x10 faster than data.table). It does this by only accessing the part of the database required for the action needed.
+**[janitor.](https://garthtarr.github.io/meatR/janitor.html)** Package. Tutorial. An easy way to identify duplicate by multiple columns (exact of fuzzy match). This is often surprisingly hard to do in base R.
 
 ***
 
