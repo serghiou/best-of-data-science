@@ -206,7 +206,7 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[R Markdown Theme Gallery.](http://www.datadreaming.org/post/r-markdown-theme-gallery/)** Collection. A collection of some of the most important packages and templates for R Markdown HTML. This is where I found most of the packages that I use for my HTML themes.
 
-**[R Script to HTML.](https://www.r-bloggers.com/how-to-create-professional-reports-from-r-scripts-with-custom-styles/)** Tutorial. A fantastic tutorial on rmarkdown and how to use it to introduce custom CSS stylesheets and most importantly how to render R Script files into HTML! The latter is fantastically useful and would have saved me tons of time if I had known about it earlier.
+**[R Script to HTML.](https://www.r-bloggers.com/how-to-create-professional-reports-from-r-scripts-with-custom-styles/)** Tutorial. A fantastic tutorial on rmarkdown and how to use it to introduce custom CSS stylesheets and most importantly how to render R Script files into HTML! The latter is fantastically useful and would have saved me tons of time if I had known about it earlier. Do this by using the `spin()` function of the `knitr` package.
 
 **[prettydoc.](https://yixuan.cos.name/prettydoc/)** Package. Vignette. Super good looking HTML templates for R Markdown output. I particularly like the hpstr (my current default) and architect themes.
 
