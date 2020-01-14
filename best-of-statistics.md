@@ -8,6 +8,8 @@
 
 **[Elementary Statistics by Penn State.](https://newonlinecourses.science.psu.edu/stat200/home)** Course. Book. This is a superbly well designed course on statistics, which also emphasizes the computational approach to learning statistics (e.g. simulations). I would have liked they used a less traditional approach in describing statistical significance. Nevertheless, very highly recommended.
 
+**[Ask Good Questions.](https://askgoodquestions.blog/)** Blog. A blog about teaching introductory statistics. It has great explanations about aspects of statistics that students frequently get wrong. I really like the clever statistical problems that it has and it's a great inspiration for exam questions.
+
 
 ## Frequentist
 
