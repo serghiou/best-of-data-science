@@ -277,6 +277,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[tidypvals.](https://github.com/jtleek/tidypvals)** Package. Tutorial. An awesome package developed by Jeff Leek of Johns Hopkins University. It compiles the p-values gathered by some of the most important papers systematically looking at p-values (inlcuding the Chavalarias paper) into one single R package!
 
+**[fulltext.](https://books.ropensci.org/fulltext/)** Package. Book. A package by the ROpenSci community that brings together several packages to provide meta-data, full text and links to full text from repositories such as Entrez (PubMed), arXiv, bioRxiv, PLOS, Scopus and Microsoft Academic. A great and very handy tool explained extremely well in the linked book.
+
 
 
 ***
