@@ -239,6 +239,13 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 ***
 
+## Web scraping
+
+**[rvest.](https://stat4701.github.io/edav/2015/04/02/rvest_tutorial/)** Package. Tutorial. My favorite package for scraping content off the web. It can be used to work with both HMTL and XML data and it is part of the tidyverse family. It is a way more user friendly to work with the web than packages like XML or XML2. An instructive comparison between rvest and beautifulsoup (the equivalent Python method from which rvest was inspired) can be found [here](https://www.r-bloggers.com/beautifulsoup-vs-rvest/).
+
+
+***
+
 
 ## Web development/Shiny
 
@@ -246,7 +253,9 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[modelDown.](https://www.r-bloggers.com/modeldown-is-now-on-cran/)** Package. The modelDown package turns classification or regression models into HTML static websites. With one command you can convert one or more models into a website with visual and tabular model summaries. Summaries like model performance, feature importance, single feature response profiles and basic model audits.
 
+
 ***
+
 
 ## Interface with other languages
 
@@ -267,6 +276,10 @@ A collection of all resources and packages about R that I find interesting. Plea
 **[rcrossref.](https://ropensci.org/tutorials/rcrossref_tutorial/)** Package. Tutorial. Another great package by the rOpenSci community! This one is super useful in using the large database of CrossRef to identify the DOI of an article for which you only have the PMID and most importantly, identify citation counts from those mapped by CrossRef!
 
 **[tidypvals.](https://github.com/jtleek/tidypvals)** Package. Tutorial. An awesome package developed by Jeff Leek of Johns Hopkins University. It compiles the p-values gathered by some of the most important papers systematically looking at p-values (inlcuding the Chavalarias paper) into one single R package!
+
+
+
+***
 
 
 
