@@ -10,6 +10,8 @@
 
 **[Ask Good Questions.](https://askgoodquestions.blog/)** Blog. A blog about teaching introductory statistics. It has great explanations about aspects of statistics that students frequently get wrong. I really like the clever statistical problems that it has and it's a great inspiration for exam questions.
 
+**[Statistical Thinking for the 21st Century.](http://statsthinking21.org/)** Book. This is probably the best book I have found combining teaching R with modern applications of statistical methods. I really like the focus of the author on statistical "thinking" and on using methods in such a way as to promote reproducibility. Very highly recommended to R novices or R experts, as well as a course textbook!
+
 
 ## Frequentist
 
