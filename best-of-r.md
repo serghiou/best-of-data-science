@@ -296,17 +296,30 @@ A collection of all resources and packages about R that I find interesting. Plea
 **[How to manage memory in R.](https://stackoverflow.com/questions/1358003/tricks-to-manage-the-available-memory-in-an-r-session)** Tutorial. A good guide on managing memory in R.
 
 
+***
+
+## Datasets
+
+**[Schrute.](https://cran.r-project.org/web/packages/schrute/vignettes/theoffice.html)** Package. Tutorial. "This is a package that does/has only one thing: the complete transcriptions of all episodes of The Office! (US version). Use this data set to master NLP or text analysis. This tutorial scratches the surface of the subject with a few examples from the excellent Text Mining with R book, by Julia Silge and David Robinson."
+
+
+***
+
 
 ## GUIs
 
 [BlueSky.](https://www.r-bloggers.com/a-comparative-review-of-the-bluesky-statistics-gui-for-r/amp/) Even though I have not used this GUI, it being so much easier to install than R Commander, being much easier on the eye and creating what look like more beautiful plots makes it quite promising for those interested in GUIs!
 
 
+***
+
 
 ## Package creation
 
 **[DataPackageR.](https://cran.r-project.org/web/packages/DataPackageR/vignettes/usingDataPackageR.html)** A great way to turn datasets into easily reusable and downloadable packages.
 
+
+***
 
 
 ## Appearance
