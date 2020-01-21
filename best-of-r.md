@@ -172,7 +172,7 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[MASS.](https://cran.r-project.org/web/packages/MASS/MASS.pdf)** Package. Documentation. An indispensible package containing some very useful functions complementary to Base R (e.g. the ability to fit negative binomial regression). I also particularly like the `fitdistr` function, which uses maximum likelihood to identify the parameters of the assumed underlying distribution.
 
-**[mfp.](https://rpubs.com/kaz_yos/PolySpline2)** Package. Tutorial. This package makes it easy to fit fractional polynomials. I have no knowledge on the subject as of the time of writing and have not used the package. Instead of polynomial models, which proceed in powers of $x$, fractional polynomials proceed in fractional powers of $x$ (e.g. 2, 1/2, etc.). This is a great tutorial on advanced implementations of splines, GAM and fractional polynomials.
+**[mfp.](https://rpubs.com/kaz_yos/PolySpline2)** Package. Tutorial. This package makes it easy to fit fractional polynomials. I have no knowledge on the subject as of the time of writing and have not used the package. Instead of polynomial models, which proceed in powers of x, fractional polynomials proceed in fractional powers of x (e.g. 2, 1/2, etc.). This is a great tutorial on advanced implementations of splines, GAM and fractional polynomials.
 
 
 ***
