@@ -43,7 +43,7 @@ A collection of useful resources and packages.
 
 ## Data import/export
 
-** [The most time efficient ways to import CSV data in Python.](https://medium.com/casual-inference/the-most-time-efficient-ways-to-import-csv-data-in-python-cc159b44063d)** Tutorial. A great exploration of ways to import CSV files in Python, contrasting straight forward approaches, versus speedy approaches. [This website](https://tomaugspurger.github.io/method-chaining.html) offers a great illustration of how to implement method chaining/piping that has been popularized by tidyverse in R.
+**[The most time efficient ways to import CSV data in Python.](https://medium.com/casual-inference/the-most-time-efficient-ways-to-import-csv-data-in-python-cc159b44063d)** Tutorial. A great exploration of ways to import CSV files in Python, contrasting straight forward approaches, versus speedy approaches. [This website](https://tomaugspurger.github.io/method-chaining.html) offers a great illustration of how to implement method chaining/piping that has been popularized by tidyverse in R.
 
 
 
