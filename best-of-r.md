@@ -224,7 +224,7 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[bookdown.](https://bookdown.org/)** Package. Vignette. A package to write awesome-looking books using R Markdown. The definitive guide referenced here, as well as the celebrated Advanced R book by Hadley were written in bookdown and they all look super impressive! This package also makes it easy to have openly available books online.
 
-**[rticles.](https://github.com/rstudio/rticles)** Package. Vignette. Use templates to create articles written in a format appropriate for multiple journals of interest. I have not used this package yet, but it is recommended by RStudio.
+**[rticles.](https://github.com/rstudio/rticles)** Package. Vignette. Use templates to create articles written in a format appropriate for multiple journals of interest (including journals by Springer, Sage and Taylor & Francis). I have not used this package yet, but it is recommended by RStudio.
 
 **[vitae.](https://www.r-bloggers.com/vitae-dynamic-cvs-with-r-markdown/)** Tutorial. Package. A package designed to help construct and update CVs quickly, without the fuss usually required to update one. I have not tried this one out, but it looks promising!
 
