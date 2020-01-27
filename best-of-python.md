@@ -74,6 +74,7 @@ A collection of useful resources and packages.
 
 **[Kaggle: Faster Data Science Education.](https://www.kaggle.com/learn/overview)** Tutorial. A fantastic set of tutorials on all of the tools required, from Python to Pandas to Deep Learning. A highly-recommended resource, especially for those with minimal previous exposure to programming and machine learning.
 
+**[Recalibration.](https://scikit-learn.org/stable/modules/calibration.html)** Tutorial. A great tutorial on how to use Scikit to study and improve the calibration of your models.
 
 
 
