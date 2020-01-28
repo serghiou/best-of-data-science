@@ -10,10 +10,22 @@ New text editors appear all the time. This is a list of text editors I find part
 
 * **[Stencila.](https://stenci.la/)** Free. This appears super cool, even though I have not used it yet. It looks great for authoring Markdown documents in conjunction with underlying data science code and your data in order to produce live documents; almost like a better-looking version of R-Markdown.
 
+
+***
+
+
 ## LaTeX
 
 * **[Overleaf/ShareLaTeX.](https://www.overleaf.com/)** The best editor for LaTeX I have found so far. It makes creating such documents super easy. Love the integration with GitHub and how easy to makes it to cite.
 
 * **[Thesis template.](https://github.com/dcroote/stanford-thesis-example)** A template created by a Stanford graduate to help others write their thesis in LaTeX painlessly.
+
+
+***
+
+
+## Code
+
+* **[Vim](https://medium.com/better-programming/vim-isnt-that-scary-here-are-5-free-resources-you-can-use-to-learn-it-5bba109a7422)** Free. Tutorial. Vim is probably the most used text editor for programmers. Even though it has a steep learning curve, it comes with great functionality. This tutorial is a good start.
 
 </div>
