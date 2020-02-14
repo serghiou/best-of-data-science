@@ -134,6 +134,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[rbokeh.](https://realpython.com/python-comments-guide/)** Package. Tutorial. Bokeh is a visualization library that provides a flexible and powerful declarative framework for creating web-based plots. Bokeh renders plots using HTML canvas and provides many mechanisms for interactivity. Bokeh has interfaces in Python, Scala, Julia, and now R.
 
+**[r2d3.](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/)** Package. Tutorial. A library that provides an R interface to the great D3.js library for beatufiul and interactive visualizations. This was created by the RStudio crew.
+
 
 ***
 
