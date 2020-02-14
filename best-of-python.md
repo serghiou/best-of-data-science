@@ -13,6 +13,8 @@ A collection of useful resources and packages.
 
 ***
 
+
+
 ## IDE/Distributions
 
 **[Python distributions.](https://www.infoworld.com/article/3267976/python/anaconda-cpython-pypy-and-more-know-your-python-distributions.amp.html)** Collection. A good collection of Python distributions and their use cases. The commonest distribution of Python is CPython.
@@ -38,7 +40,7 @@ A collection of useful resources and packages.
 **[Pandas.](https://stmorse.github.io/journal/tidyverse-style-pandas.html)** Tutorial. This is a fantastic tutorial on how to translate code from R's Tidyverse to Python Pandas. [This website](https://tomaugspurger.github.io/method-chaining.html) offers a great illustration of how to implement method chaining/piping that has been popularized by tidyverse in R.
 
 
-
+***
 
 
 ## Data import/export
@@ -46,12 +48,13 @@ A collection of useful resources and packages.
 **[The most time efficient ways to import CSV data in Python.](https://medium.com/casual-inference/the-most-time-efficient-ways-to-import-csv-data-in-python-cc159b44063d)** Tutorial. A great exploration of ways to import CSV files in Python, contrasting straight forward approaches, versus speedy approaches.
 
 
+***
 
 
 ## Data description/summarization
 
 
-
+***
 
 
 ## Data visualization
@@ -63,11 +66,7 @@ A collection of useful resources and packages.
 **[Reviewing Python Visualization Packages](https://towardsdatascience.com/reviewing-python-visualization-packages-fa7fe12e622b)** Review. A good overview of visualization packages available for Python and their basic use.
 
 
-
-
-
-
-
+***
 
 
 ## Data analysis
@@ -83,7 +82,11 @@ A collection of useful resources and packages.
 **[Bayesian Data Analysis in Python.](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)** Tutorial. A great resource with applied guidance on how to produce Bayesian analyses in Python.
 
 
+***
 
+## Interactive
+
+**[ipywidgets.](https://ipywidgets.readthedocs.io/en/latest/)** Package. Tutorial. This package allows you to interactively change your plots when using Jupyter notebooks.
 
 
 
@@ -117,6 +120,7 @@ A collection of useful resources and packages.
 
 
 ## Package creation
+
 
 
 
