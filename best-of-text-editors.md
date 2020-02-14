@@ -23,8 +23,16 @@ New text editors appear all the time. This is a list of text editors I find part
 
 ***
 
+## JavaScript
 
-## Code
+* **[Observable.](https://observablehq.com/)** A beautiful editor for JavaScript that lets you create visualizations of data easily and interactively.
+
+
+
+***
+
+
+## General coding
 
 * **[Vim](https://medium.com/better-programming/vim-isnt-that-scary-here-are-5-free-resources-you-can-use-to-learn-it-5bba109a7422)** Free. Tutorial. Vim is probably the most used text editor for programmers. Even though it has a steep learning curve, it comes with great functionality. This tutorial is a good start.
 
