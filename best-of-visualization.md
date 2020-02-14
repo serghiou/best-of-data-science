@@ -1,6 +1,8 @@
 # Best of visualization
 
 <div align='justify'>
+  
+This is a list of visualization resources that are general and do not fit nicely within any of the other buckets of top resources.
 
 ## Frameworks
 
