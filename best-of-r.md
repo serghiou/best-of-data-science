@@ -142,6 +142,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 ## Data analysis
 
+**[estimatr.](https://declaredesign.org/r/estimatr/articles/benchmarking-estimatr.html)** Benchmark. Package. A great package for basic econometric approach to causal inference. As the benchmark shows, it works faster than using a combination of base R and the sandwich or other estimators. The same group has other very interesting packages as well (e.g. `fabricatr` and `randomizer`).
+
 **[H2O.](https://github.com/h2oai/h2o-tutorials/blob/master/tutorials/glm/glm.md)** Package. Tutorial. A fantastic package for speeding up the process of fitting machine learning models. This is a tutorial illustrating how to use the H2O package. [Here](https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/tutorials/gbm/gbmTuning.Rmd) is a tutorial on how to use GBM with H2O.
 
 **[healthcareai.](https://docs.healthcare.ai/)** Package. A package designed to make it easy to automatically fit many machine learning methods, automatically tune them and get a model. I have not explored this package, but it is open source and the machine learning methods being used appear good. I do not like that it handles data automatically without much insight by the researcher (e.g. regarding missingness), but I need to try it out before making any other comments.
