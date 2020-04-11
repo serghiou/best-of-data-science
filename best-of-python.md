@@ -84,9 +84,18 @@ A collection of useful resources and packages.
 
 ***
 
+
 ## Interactive
 
 **[ipywidgets.](https://ipywidgets.readthedocs.io/en/latest/)** Package. Tutorial. This package allows you to interactively change your plots when using Jupyter notebooks.
+
+
+***
+
+
+## Notebooks and output
+
+**[jupyterbook.](https://jupyterbook.org/intro.html)** Package. Tutorial. "Jupyter Books lets you build an online book using a collection of Jupyter Notebooks and Markdown files. Its output is similar to the excellent Bookdown tool, and adds extra functionality for people running a Jupyter stack."
 
 
 
