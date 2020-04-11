@@ -213,6 +213,7 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[dmlmt.](https://github.com/MCKnaus/dmlmt)** Package. Tutorial. A package that makes using double machine learning easy. It implements work by Chernozukov.
 
+**[grf.](https://github.com/grf-labs/grf)** Package. Tutorial. A package to fit generalized random forests by Susan Athey and Stefan Wager.
 
 ***
 
