@@ -28,10 +28,19 @@ A collection of useful resources and packages.
 **[Commenting best practice.](https://realpython.com/python-comments-guide/)** Tutorial. A great explanation with examples of how to comment in Python and how to make sure that you are including appropriate (not too many, not too few) comments in your code.
 
 
+***
+
+## General engineering
+
+**[Dask.distributed.](https://distributed.dask.org/en/latest/)** Package. Tutorial. Dask.distributed is a lightweight library for distributed computing in Python. It extends both the concurrent.futures and dask APIs to moderate sized clusters.
+
+
+***
 
 
 ## Text mining
 
+**[BeautifulSoup.]**
 
 
 
