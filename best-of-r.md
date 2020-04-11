@@ -214,8 +214,12 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[RJAGS.](https://www.datacamp.com/courses/bayesian-modeling-with-rjags?tap_a=5644-dce66f&tap_s=10907-287229)** A super useful package for Bayesian modelling within R. This is a link to a tutorial on how to use it by the great as always DataCamp.
 
+**[diagis.](https://cran.r-project.org/web/packages/diagis/vignettes/diagis.pdf)** Package. Tutorial. "diagis is an R package containing functions relating weighted samples obtained for example from importance sampling. The main motivation for developing diagis was to enable easy computation of summary statistics and diagnostics of the weighted MCMC runs provided by bssm package (Helske and Vihola 2016; Vihola,
+Helske, and Franks 2017) for Bayesian state space modelling."
+
 
 ***
+
 
 ## Causal Inference
 
