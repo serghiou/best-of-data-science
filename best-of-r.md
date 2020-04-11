@@ -140,6 +140,16 @@ A collection of all resources and packages about R that I find interesting. Plea
 ***
 
 
+## Data tabulation
+
+* **[gt](https://gt.rstudio.com/)** Package. Tutorial. An attempt to create a grammar for tables. Still at an early stage and requires some work, but a terribly necessary package to eventually appear.
+
+* **Many packages for tabulating.** A few packages reported by `gt` on great packages to easily create good-looking tables: knitr (GITHUB, WEBSITE) — kableExtra (GITHUB, WEBSITE) — formattable (GITHUB, WEBSITE) — DT (GITHUB, WEBSITE) — pander (GITHUB, WEBSITE) — huxtable (GITHUB, WEBSITE) — reactable (GITHUB, WEBSITE) — flextable (GITHUB, WEBSITE) — pixiedust (GITHUB) — tangram (GITHUB) — ztable (GITHUB) — condformat (GITHUB) — stargazer (CRAN) — xtable (CRAN
+
+
+***
+
+
 ## Data analysis
 
 **[estimatr.](https://declaredesign.org/r/estimatr/articles/benchmarking-estimatr.html)** Benchmark. Package. A great package for a basic econometric approach to causal inference. As the benchmark shows, it works faster than using a combination of base R and the sandwich or other estimators. The same group has other very interesting packages as well (e.g. `fabricatr` and `randomizer`).
