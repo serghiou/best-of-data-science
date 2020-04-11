@@ -209,7 +209,9 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 ## Causal Inference
 
-**[causalToolbox.](https://github.com/soerenkuenzel/causalToolbox)** Tutorial. Package. A great package to easily fit an honest random forest, fit a BART, estimate the average treatment effect and fit confidence intervals.
+**[causalToolbox.](https://github.com/soerenkuenzel/causalToolbox)** Package. Tutorial. A great package to easily fit an honest random forest, fit a BART, estimate the average treatment effect and fit confidence intervals.
+
+**[dmlmt.](https://github.com/MCKnaus/dmlmt)** Package. Tutorial. A package that makes using double machine learning easy. It implements work by Chernozukov.
 
 
 ***
