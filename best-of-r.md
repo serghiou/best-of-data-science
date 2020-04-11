@@ -142,7 +142,7 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 ## Data analysis
 
-**[estimatr.](https://declaredesign.org/r/estimatr/articles/benchmarking-estimatr.html)** Benchmark. Package. A great package for basic econometric approach to causal inference. As the benchmark shows, it works faster than using a combination of base R and the sandwich or other estimators. The same group has other very interesting packages as well (e.g. `fabricatr` and `randomizer`).
+**[estimatr.](https://declaredesign.org/r/estimatr/articles/benchmarking-estimatr.html)** Benchmark. Package. A great package for a basic econometric approach to causal inference. As the benchmark shows, it works faster than using a combination of base R and the sandwich or other estimators. The same group has other very interesting packages as well (e.g. `fabricatr` and `randomizer`).
 
 **[H2O.](https://github.com/h2oai/h2o-tutorials/blob/master/tutorials/glm/glm.md)** Package. Tutorial. A fantastic package for speeding up the process of fitting machine learning models. This is a tutorial illustrating how to use the H2O package. [Here](https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/tutorials/gbm/gbmTuning.Rmd) is a tutorial on how to use GBM with H2O.
 
@@ -177,6 +177,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 **[MASS.](https://cran.r-project.org/web/packages/MASS/MASS.pdf)** Package. Documentation. An indispensible package containing some very useful functions complementary to Base R (e.g. the ability to fit negative binomial regression). I also particularly like the `fitdistr` function, which uses maximum likelihood to identify the parameters of the assumed underlying distribution.
 
 **[mfp.](https://rpubs.com/kaz_yos/PolySpline2)** Package. Tutorial. This package makes it easy to fit fractional polynomials. I have no knowledge on the subject as of the time of writing and have not used the package. Instead of polynomial models, which proceed in powers of x, fractional polynomials proceed in fractional powers of x (e.g. 2, 1/2, etc.). This is a great tutorial on advanced implementations of splines, GAM and fractional polynomials.
+
+**[Experimental Design CRAN Task View.](https://cran.r-project.org/web/views/ExperimentalDesign.html)** Collection. A CRAN collection of many packages with specialised functions for designing, running and analysing data from experiments, including clinical trial.s
 
 
 ***
