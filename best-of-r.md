@@ -4,7 +4,9 @@
 
 A collection of all resources and packages about R that I find interesting. Please cite the repository if using its resources and let me know of packages that you love that I (most probably!) have missed!
 
+
 ***
+
 
 ## To learn R
 
@@ -18,7 +20,9 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[Foundations of Statistics with R.](https://mathstat.slu.edu/~speegle/_book/index.html)** Book. A nicely done book teaching how to produce basic statistical analyses using R. I really like the integration of text with code and their use of modern data analysis packages (tidyverse).
 
+
 ***
+
 
 ## Syntax
 
@@ -32,13 +36,17 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 * **head.** Cool syntax. You can use negative indexes to remove from the end. For example, head(x, -1) will return all elements of object x apart from the last one.
 
+
 ***
+
 
 ## Text mining
 
 **[Text mining with R.](https://www.tidytextmining.com/)** Book. A great GitHub resource with code for cutting-edge text mining with R.
 
+
 ***
+
 
 ## Data import/export
 
@@ -48,7 +56,9 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[vroom.](https://github.com/jimhester/vroom)** Package. Tutorial. Lighting fast import of .csv files (x10 faster than data.table). It does this by only accessing the part of the database required for the action needed.
 
+
 ***
+
 
 ## Data manipulation
 
@@ -60,7 +70,9 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[janitor.](https://garthtarr.github.io/meatR/janitor.html)** Package. Tutorial. An easy way to identify duplicate by multiple columns (exact of fuzzy match). This is often surprisingly hard to do in base R.
 
+
 ***
+
 
 ## Data description/summarization
 
@@ -74,7 +86,9 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[papeR.](https://cran.r-project.org/web/packages/papeR/vignettes/papeR_introduction.html)** Package. Tutorial. A package to produce summary statistics quickly. I particularly like the ease of choosing which type of variables to summarize, how to group those variables and how to produce pretty LaTeX/HTML output tables without having to rely on other packages, such as ktable.
 
+
 ***
+
 
 ## Data visualization
 
@@ -152,7 +166,27 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 ## Data analysis
 
-**[estimatr.](https://declaredesign.org/r/estimatr/articles/benchmarking-estimatr.html)** Benchmark. Package. A great package for a basic econometric approach to causal inference. As the benchmark shows, it works faster than using a combination of base R and the sandwich or other estimators. The same group has other very interesting packages as well (e.g. `fabricatr` and `randomizer`).
+**[Iso.](https://cran.r-project.org/web/packages/Iso/Iso.pdf)** Package. Tutorial. A great package for fitting isotonic regression, which helps with calibration of your models after fitting them - a very important and very underused technique.
+
+**[Imputation and IV regression for missing data.](http://www.brodrigues.co/blog/2018-07-01-tidy_ive/)** Tutorial. Imputation and IV regression for missing data in R - it illustrates how to use packages `mice`, `AER` and `tidyverse` for this purpose. 
+
+**[lme4.](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)** The standard and fastest package for fitting mixed-effects models. [Here](https://ase.tufts.edu/gsc/gradresources/guidetomixedmodelsinr/mixed%20model%20guide.html) is a great tutorial on how to go about fitting a mixed-effects model from Tufts University. [Here](http://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html) is another great tutorial by Berkeley, which combines this with discussing Bayesian fitting for hierachical models using `rstanarm`. When not fitting a generalized linear model, I use the [lmerTest](https://cran.r-project.org/web/packages/lmerTest/lmerTest.pdf) package, which makes testing the random-effects, comparing models and getting p-values a lot easier. 
+
+**[Contrasts in linear models.](https://www.clinicalstudydatarequest.com/Default.aspx)** Tutorial. A tutorial on how to use the "contrast" parameter when fitting linear models in R. This refers to the contrasts applied between levels of a factor.
+
+**[iBreakDown.](https://www.r-bloggers.com/ibreakdown-faster-prettier-and-more-precise-explanations-for-predictive-models-with-interactions/)** Package. Overview. A package to help explain prediction models - I have not tried it yet, but it appears promising.
+
+**[MASS.](https://cran.r-project.org/web/packages/MASS/MASS.pdf)** Package. Documentation. An indispensible package containing some very useful functions complementary to Base R (e.g. the ability to fit negative binomial regression). I also particularly like the `fitdistr` function, which uses maximum likelihood to identify the parameters of the assumed underlying distribution.
+
+**[mfp.](https://rpubs.com/kaz_yos/PolySpline2)** Package. Tutorial. This package makes it easy to fit fractional polynomials. I have no knowledge on the subject as of the time of writing and have not used the package. Instead of polynomial models, which proceed in powers of x, fractional polynomials proceed in fractional powers of x (e.g. 2, 1/2, etc.). This is a great tutorial on advanced implementations of splines, GAM and fractional polynomials.
+
+**[Experimental Design CRAN Task View.](https://cran.r-project.org/web/views/ExperimentalDesign.html)** Collection. A CRAN collection of many packages with specialised functions for designing, running and analysing data from experiments, including clinical trials.
+
+
+***
+
+
+## Machine learning
 
 **[H2O.](https://github.com/h2oai/h2o-tutorials/blob/master/tutorials/glm/glm.md)** Package. Tutorial. A fantastic package for speeding up the process of fitting machine learning models. This is a tutorial illustrating how to use the H2O package. [Here](https://github.com/h2oai/h2o-3/blob/master/h2o-docs/src/product/tutorials/gbm/gbmTuning.Rmd) is a tutorial on how to use GBM with H2O.
 
@@ -164,37 +198,13 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[SuperLearner.](https://cran.r-project.org/web/packages/SuperLearner/vignettes/Guide-to-SuperLearner.html)** Package. Tutorial. A very well-done package, the primary advantage of which is its ability to automatically ensemble all fitted models into a new model. It offers all important learning algorithms, makes it easy to add your own algorithms, tune the algorithms or select features. Highly recommended!
 
-**[coin.](https://cran.r-project.org/web/packages/coin/coin.pdf)** Package. The most popular package for all sorts of permutation tests.
-
-**[Boruta.](https://www.theguardian.com/higher-education-network/2018/aug/09/a-phd-should-be-about-improving-society-not-chasing-academic-kudos)** Package. Tutorial. A package to apply the boruta algorithm of feature selection for random forests.
-
-**[MatchIt.](https://cran.r-project.org/web/packages/MatchIt/vignettes/matchit.pdf)** Package. Tutorial. An implementation of matching algorithms by some of the most prominent names in the field - indispensable for things such as propensity-score matching.
-
-**[Fundamentals of Bayesian Data Analysis with R.](https://www.datacamp.com/community/blog/course-fundamentals-bayesian-data-analysis-r)** Tutorial. A tutorial of the fundamentals by DataCamp.
-
-**[Imputation and IV regression for missing data.](http://www.brodrigues.co/blog/2018-07-01-tidy_ive/)** Tutorial. Imputation and IV regression for missing data in R - it illustrates how to use packages `mice`, `AER` and `tidyverse` for this purpose. 
-
-**[Bayesian meta-analysis with R.](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/styled-4/styled-11/code-9/)** Tutorial. A fantastic tutorial on how to run a fixed-effect and random-effects Bayesian meta-analysis from scratch.
-
-**[lme4.](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf)** The standard and fastest package for fitting mixed-effects models. [Here](https://ase.tufts.edu/gsc/gradresources/guidetomixedmodelsinr/mixed%20model%20guide.html) is a great tutorial on how to go about fitting a mixed-effects model from Tufts University. [Here](http://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html) is another great tutorial by Berkeley, which combines this with discussing Bayesian fitting for hierachical models using `rstanarm`. When not fitting a generalized linear model, I use the [lmerTest](https://cran.r-project.org/web/packages/lmerTest/lmerTest.pdf) package, which makes testing the random-effects, comparing models and getting p-values a lot easier. 
-
-**[Implementation of G-Computation.](https://academic.oup.com/aje/article-lookup/doi/10.1093/aje/kwq472)** Tutorial. A great paper illustrating how to implement G-computation in R for causal inference.
-
-**[Contrasts in linear models.](https://www.clinicalstudydatarequest.com/Default.aspx)** Tutorial. A tutorial on how to use the "contrast" parameter when fitting linear models in R. This refers to the contrasts applied between levels of a factor.
-
-**[iBreakDown.](https://www.r-bloggers.com/ibreakdown-faster-prettier-and-more-precise-explanations-for-predictive-models-with-interactions/)** Package. Overview. A package to help explain prediction models - I have not tried it yet, but it appears promising.
-
-**[MASS.](https://cran.r-project.org/web/packages/MASS/MASS.pdf)** Package. Documentation. An indispensible package containing some very useful functions complementary to Base R (e.g. the ability to fit negative binomial regression). I also particularly like the `fitdistr` function, which uses maximum likelihood to identify the parameters of the assumed underlying distribution.
-
-**[mfp.](https://rpubs.com/kaz_yos/PolySpline2)** Package. Tutorial. This package makes it easy to fit fractional polynomials. I have no knowledge on the subject as of the time of writing and have not used the package. Instead of polynomial models, which proceed in powers of x, fractional polynomials proceed in fractional powers of x (e.g. 2, 1/2, etc.). This is a great tutorial on advanced implementations of splines, GAM and fractional polynomials.
-
-**[Experimental Design CRAN Task View.](https://cran.r-project.org/web/views/ExperimentalDesign.html)** Collection. A CRAN collection of many packages with specialised functions for designing, running and analysing data from experiments, including clinical trial.s
-
 
 ***
 
 
 ## Bayesian Statistics
+
+**[Fundamentals of Bayesian Data Analysis with R.](https://www.datacamp.com/community/blog/course-fundamentals-bayesian-data-analysis-r)** Tutorial. A tutorial of the fundamentals by DataCamp.
 
 **[rstan.](http://mc-stan.org/users/interfaces/rstan)** Package. Tutorial. A fantastic wrapper around the programming language Stan, which was specifically created to ease Hamiltonian Monte Carlo sampling methods for fitting Bayesian models. Mandatory for anyone interested in Bayesian data analysis. A great [tutorial](https://mc-stan.org/users/documentation/case-studies/identifying_mixture_models.html) on how to fit mixture models using rstan.
 
@@ -223,12 +233,19 @@ Helske, and Franks 2017) for Bayesian state space modelling."
 
 ## Causal Inference
 
+**[estimatr.](https://declaredesign.org/r/estimatr/articles/benchmarking-estimatr.html)** Benchmark. Package. A great package for a basic econometric approach to causal inference. As the benchmark shows, it works faster than using a combination of base R and the sandwich or other estimators. The same group has other very interesting packages as well (e.g. `fabricatr` and `randomizer`).
+
 **[causalToolbox.](https://github.com/soerenkuenzel/causalToolbox)** Package. Tutorial. A great package to easily fit an honest random forest, fit a BART, estimate the average treatment effect and fit confidence intervals.
 
 **[dmlmt.](https://github.com/MCKnaus/dmlmt)** Package. Tutorial. A package that makes using double machine learning easy. It implements work by Chernozukov.
 
 **[grf.](https://github.com/grf-labs/grf)** Package. Tutorial. A package to fit generalized random forests by Susan Athey and Stefan Wager.
 
+**[coin.](https://cran.r-project.org/web/packages/coin/coin.pdf)** Package. The most popular package for all sorts of permutation tests.
+
+**[MatchIt.](https://cran.r-project.org/web/packages/MatchIt/vignettes/matchit.pdf)** Package. Tutorial. An implementation of matching algorithms by some of the most prominent names in the field - indispensable for things such as propensity-score matching.
+
+**[Implementation of G-Computation.](https://academic.oup.com/aje/article-lookup/doi/10.1093/aje/kwq472)** Tutorial. A great paper illustrating how to implement G-computation in R for causal inference.
 
 
 ***
@@ -238,7 +255,7 @@ Helske, and Franks 2017) for Bayesian state space modelling."
 
 **[forestplot.](https://cran.r-project.org/web/packages/forestplot/vignettes/forestplot.html)** Package. Tutorial. Create forest plots that look better (marginally better) than the ones produced automatically by rmeta or metafor. Still not as gooda s this could be.
 
-
+**[Bayesian meta-analysis with R.](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/styled-4/styled-11/code-9/)** Tutorial. A fantastic tutorial on how to run a fixed-effect and random-effects Bayesian meta-analysis from scratch.
 
 
 
