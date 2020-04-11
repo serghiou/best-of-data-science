@@ -215,6 +215,20 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[grf.](https://github.com/grf-labs/grf)** Package. Tutorial. A package to fit generalized random forests by Susan Athey and Stefan Wager.
 
+
+
+***
+
+
+## Meta-research
+
+**[forestplot.](https://cran.r-project.org/web/packages/forestplot/vignettes/forestplot.html)** Package. Tutorial. Create forest plots that look better (marginally better) than the ones produced automatically by rmeta or metafor. Still not as gooda s this could be.
+
+
+
+
+
+
 ***
 
 
