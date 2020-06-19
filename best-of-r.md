@@ -20,6 +20,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[Foundations of Statistics with R.](https://mathstat.slu.edu/~speegle/_book/index.html)** Book. A nicely done book teaching how to produce basic statistical analyses using R. I really like the integration of text with code and their use of modern data analysis packages (tidyverse).
 
+**[STAT 547 @ UBC: Class Meeting Guide 2019/20.](https://stat545guidebook.netlify.app/)** Book. A fantastic book teaching statistics through R, created to accompany the famous [STAT 545](https://stat545.stat.ubc.ca/) course at University of British Columbia. Please also review a similar book by the instructor and TAs of this class on [Data wrangling, exploration, and analysis with R](https://stat545.com/).
+
 
 ***
 
