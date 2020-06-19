@@ -13,9 +13,23 @@
 **[Statistical Thinking for the 21st Century.](http://statsthinking21.org/)** Book. This is probably the best book I have found combining teaching R with modern applications of statistical methods. I really like the focus of the author on statistical "thinking" and on using methods in such a way as to promote reproducibility. Very highly recommended to R novices or R experts, as well as a course textbook!
 
 
+***
+
+
+## Longitudinal data
+
+**[Survival models.](https://data.princeton.edu/wws509/notes/c7.pdf)** Chapter from the book of Princeton professor German Rodriguez. This is the best account about survival models and hazard that I have found so far. It perfectly combines going through the underlying math with clearly explaining how these models are structured.
+
+
+***
+
+
 ## Frequentist
 
 **[Regression and ANOVA.](http://statweb.stanford.edu/~jtaylo/courses/stats203/)** Tutorial. These are the materials of the main regression analysis course at Stanford at the Masters level. A good overview of the most important methods and of resources you can use to extend your knowledge.
+
+
+***
 
   
 ## Bayesian statistics
@@ -26,6 +40,8 @@
 
 **[Introduction to Bayesian Networks.](https://towardsdatascience.com/introduction-to-bayesian-networks-81031eeed94e)** Tutorial. A great brief article introduction to Bayesian Networks on Medium - it has received 2.7K claps.
 
+
+***
 
 
 ## Statistical practice
