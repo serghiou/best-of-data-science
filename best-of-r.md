@@ -253,11 +253,13 @@ Helske, and Franks 2017) for Bayesian state space modelling."
 
 ## Meta-research
 
+**[metafor.](http://www.metafor-project.org/doku.php/metafor)** My favorite package for meta-analyses. It also comes with amazing tutorials illustrating how functions within metafor can be used to replicate seminal papers in the field.
+
 **[forestplot.](https://cran.r-project.org/web/packages/forestplot/vignettes/forestplot.html)** Package. Tutorial. Create forest plots that look better (marginally better) than the ones produced automatically by rmeta or metafor. Still not as gooda s this could be.
 
 **[Bayesian meta-analysis with R.](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/styled-4/styled-11/code-9/)** Tutorial. A fantastic tutorial on how to run a fixed-effect and random-effects Bayesian meta-analysis from scratch.
 
-
+**[Doing Meta-Analysis in R - A hands-on guide.](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)** A great bookdown book on the basics of creating a meta-analysis using R. It also contains great code for meta-regression, network meta-analyses and Bayesian meta-analyses.
 
 
 ***
