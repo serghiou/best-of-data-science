@@ -227,6 +227,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 **[diagis.](https://cran.r-project.org/web/packages/diagis/vignettes/diagis.pdf)** Package. Tutorial. "diagis is an R package containing functions relating weighted samples obtained for example from importance sampling. The main motivation for developing diagis was to enable easy computation of summary statistics and diagnostics of the weighted MCMC runs provided by bssm package (Helske and Vihola 2016; Vihola,
 Helske, and Franks 2017) for Bayesian state space modelling."
 
+**[Bayesian Cognitive Modeling - A practical course.](https://bayesmodels.com/)** "This site is dedicated to the book “Bayesian Cognitive Modeling: A Practical Course”, published by Cambridge University Press. This book forms the basis for a week-long course that we teach in Amsterdam, during the summer. We’d love to see you there. Follow this link for next year’s course."
+
 
 ***
 
