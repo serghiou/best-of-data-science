@@ -85,10 +85,15 @@ A collection of useful resources and packages.
 **[Recalibration.](https://scikit-learn.org/stable/modules/calibration.html)** Tutorial. A great tutorial on how to use Scikit to study and improve the calibration of your models.
 
 
+***
+
 
 ## Bayesian Statistics
 
 **[Bayesian Data Analysis in Python.](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)** Tutorial. A great resource with applied guidance on how to produce Bayesian analyses in Python.
+
+
+**[Edward.](http://edwardlib.org/)** "Edward is a Python library for probabilistic modeling, inference, and criticism. It is a testbed for fast experimentation and research with probabilistic models, ranging from classical hierarchical models on small data sets to complex deep probabilistic models on large data sets. Edward fuses three fields: Bayesian statistics and machine learning, deep learning, and probabilistic programming."
 
 
 ***
