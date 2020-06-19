@@ -22,6 +22,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[STAT 547 @ UBC: Class Meeting Guide 2019/20.](https://stat545guidebook.netlify.app/)** Book. A fantastic book teaching statistics through R, created to accompany the famous [STAT 545](https://stat545.stat.ubc.ca/) course at University of British Columbia. Please also review a similar book by the instructor and TAs of this class on [Data wrangling, exploration, and analysis with R](https://stat545.com/).
 
+**[Introduction to Econometrics with R.](https://www.econometrics-with-r.org/index.html)** Book. A fantastic book illustrating how to use econometric approaches to analyse data using R. It illustrates how to use R to appropriately run and interpret multivariable regressions, instrumental variables, time series regression, average treatment effects, etc.
+
 
 ***
 
