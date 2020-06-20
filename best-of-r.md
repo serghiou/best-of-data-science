@@ -74,6 +74,8 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[janitor.](https://garthtarr.github.io/meatR/janitor.html)** Package. Tutorial. An easy way to identify duplicate by multiple columns (exact of fuzzy match). This is often surprisingly hard to do in base R.
 
+**[Databases using R.](https://db.rstudio.com/)** Tutorial. A fantastic guide on how to use R to analyse large datasets, using resources like Spark, SQL and others. It also illustrates how packages like `dplyr` can be combined with SQL to analyse large datasets. A must for big data management.
+
 
 ***
 
