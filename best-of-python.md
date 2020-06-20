@@ -9,6 +9,7 @@ A collection of useful resources and packages.
 
 **[Learning Data Science: Our Favorite Python Resources.](https://hackernoon.com/learning-data-science-our-favorite-python-resources-from-free-to-not-877fca5c92f0)** Overview. An overview of resources to learn more about Python by Hackernoon on Medium.
 
+**[DS100: Principles and Techniques of Data Science - Berkeley.](http://www.ds100.org/)** An ebook for students at Berkeley interested in data science. A great introduction to the Python skills required by any data scientist using Python.
 
 
 ***
