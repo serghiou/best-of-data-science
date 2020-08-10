@@ -12,6 +12,8 @@
 
 **[Statistical Thinking for the 21st Century.](http://statsthinking21.org/)** Book. This is probably the best book I have found combining teaching R with modern applications of statistical methods. I really like the focus of the author on statistical "thinking" and on using methods in such a way as to promote reproducibility. Very highly recommended to R novices or R experts, as well as a course textbook!
 
+**[Broadening Your Statistical Horizons.](https://bookdown.org/roback/bookdown-bysh/)** Book. Another well done bookdown. I like that this book goes beyond the basics without requiring much mathematical background and that it makes case studies available where the methods explained are used. They go through Poisson regression, likelihood methods and hierarchical models, which are rarely touched elsewhere.
+
 
 ***
 
