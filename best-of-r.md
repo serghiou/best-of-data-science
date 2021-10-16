@@ -24,6 +24,7 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 **[Introduction to Econometrics with R.](https://www.econometrics-with-r.org/index.html)** Book. A fantastic book illustrating how to use econometric approaches to analyse data using R. It illustrates how to use R to appropriately run and interpret multivariable regressions, instrumental variables, time series regression, average treatment effects, etc.
 
+**[R for Health Data Science](https://argoshare.is.ed.ac.uk/healthyr_book/)** Book. A great introduction to using R for clinical data science. The two authors are very experienced in teaching R and have their own course.
 
 ***
 
