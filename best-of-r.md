@@ -169,6 +169,7 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 * **Many packages for tabulating.** A few packages reported by `gt` on great packages to easily create good-looking tables: knitr (GITHUB, WEBSITE) — kableExtra (GITHUB, WEBSITE) — formattable (GITHUB, WEBSITE) — DT (GITHUB, WEBSITE) — pander (GITHUB, WEBSITE) — huxtable (GITHUB, WEBSITE) — reactable (GITHUB, WEBSITE) — flextable (GITHUB, WEBSITE) — pixiedust (GITHUB) — tangram (GITHUB) — ztable (GITHUB) — condformat (GITHUB) — stargazer (CRAN) — xtable (CRAN
 
+* **[DT](https://rstudio.github.io/DT/)** Package. Vignette. An R interface for the powerful JavaScript library DataTables. Looks like a powerful alternative to kableExtra, but the latter is still my go to as of the time of writing.
 
 ***
 
