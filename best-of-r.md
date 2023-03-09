@@ -167,9 +167,10 @@ A collection of all resources and packages about R that I find interesting. Plea
 
 * **[gt.](https://gt.rstudio.com/)** Package. Tutorial. An attempt to create a grammar for tables. Still at an early stage and requires some work, but a terribly necessary package to eventually appear.
 
+* **[DT.](https://rstudio.github.io/DT/)** Package. Vignette. An R interface for the powerful JavaScript library DataTables. Looks like a powerful alternative to kableExtra, but the latter is still my go to as of the time of writing.
+
 * **Many packages for tabulating.** Great packages  for tabulation as reported by `gt`: knitr, kableExtra, formattable, DT, pander, huxtable, reactable, flextable,, pixiedust, tangram, ztable, condformat, stargazer, xtable.
 
-* **[DT.](https://rstudio.github.io/DT/)** Package. Vignette. An R interface for the powerful JavaScript library DataTables. Looks like a powerful alternative to kableExtra, but the latter is still my go to as of the time of writing.
 
 ***
 
