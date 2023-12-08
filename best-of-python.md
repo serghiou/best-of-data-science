@@ -63,6 +63,8 @@ A collection of useful resources and packages.
 
 ## Data description/summarization
 
+**[ydata_profiling.](https://docs.profiling.ydata.ai/latest/)** Package. A fantastic data profiling tool, that automates and standardizes the generation of detailed reports, complete with statistics and visualizations. Create beautiful HTML dashboards describing aspects of your data (e.g., completeness, outliers, etc.).
+
 
 ***
 
